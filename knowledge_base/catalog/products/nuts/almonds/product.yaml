@@ -1,11 +1,16 @@
+schema_version: 1
+
 product_id:
+slug:
 
 name:
   bn:
   en:
 
 category:
+subcategory:
 
+status: active
 visibility: public
 
 origin:
@@ -25,6 +30,17 @@ languages_supported:
 
 aliases: []
 
+tags: []
+
+embedding_context: ""
+
 retrieval:
   priority: 0.90
   business_critical: true
+  boost_terms: []
+
+content_defaults:
+  primary_language: bn
+  fallback_language: en
+
+updated_at:
