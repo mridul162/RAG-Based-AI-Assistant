@@ -1,0 +1,28 @@
+# Project Flow
+
+1. Created project root.
+
+2. Built `template.py`.
+
+3. Generated full project architecture using:
+
+```python template.py```
+
+4. Created engineering docs:
+
+   * `PROJECT_CONTEXT.md`
+   * `SYSTEM_ARCHITECTURE.md`
+   * `DECISIONS_LOG.md`
+   * `KB_DESIGN.md`
+
+5. Defined retrieval-first KB architecture.
+
+6. Designed canonical product KB structure.
+
+7. Built `create_product_template.py`.
+
+8. Generated first product KB:
+
+```
+python product_template.py --category honey --product sundarbans_kholisha_honey
+```
