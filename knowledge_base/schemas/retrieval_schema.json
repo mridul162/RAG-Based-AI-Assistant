@@ -1,0 +1,62 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+
+  "title": "Retrieval Schema",
+
+  "type": "object",
+
+  "required": [
+    "retrieval_id",
+    "chunk_id",
+    "retrieval_timestamp"
+  ],
+
+  "properties": {
+
+    "retrieval_id": {
+      "type": "string"
+    },
+
+    "chunk_id": {
+      "type": "string"
+    },
+
+    "query": {
+      "type": "string"
+    },
+
+    "similarity_score": {
+      "type": "number"
+    },
+
+    "rerank_score": {
+      "type": "number"
+    },
+
+    "retrieval_priority": {
+      "type": "number"
+    },
+
+    "retrieval_reason": {
+      "type": "string"
+    },
+
+    "retrieval_source": {
+      "type": "string",
+
+      "enum": [
+        "vector_search",
+        "metadata_filter",
+        "hybrid_search",
+        "reranker"
+      ]
+    },
+
+    "retrieval_timestamp": {
+      "type": "string",
+
+      "format": "date-time"
+    }
+
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+
+  "title": "Product Schema",
+
+  "type": "object",
+
+  "required": [
+    "product_id",
+    "name",
+    "category",
+    "visibility"
+  ],
+
+  "properties": {
+
+    "product_id": {
+      "type": "string"
+    },
+
+    "name": {
+      "type": "object",
+
+      "properties": {
+
+        "bn": {
+          "type": "string"
+        },
+
+        "en": {
+          "type": "string"
+        }
+
+      }
+    },
+
+    "category": {
+      "type": "string"
+    },
+
+    "visibility": {
+      "type": "string",
+
+      "enum": [
+        "public",
+        "private",
+        "internal",
+        "admin_only"
+      ]
+    },
+
+    "aliases": {
+      "type": "array",
+
+      "items": {
+        "type": "string"
+      }
+    },
+
+    "origin": {
+      "type": "object",
+
+      "properties": {
+
+        "region": {
+          "type": "string"
+        },
+
+        "country": {
+          "type": "string"
+        }
+
+      }
+    },
+
+    "availability": {
+      "type": "object",
+
+      "properties": {
+
+        "seasonal": {
+          "type": "boolean"
+        }
+
+      }
+    },
+
+    "pricing": {
+      "type": "object",
+
+      "properties": {
+
+        "currency": {
+          "type": "string"
+        }
+
+      }
+    },
+
+    "languages_supported": {
+      "type": "array",
+
+      "items": {
+        "type": "string"
+      }
+    },
+
+    "retrieval": {
+      "type": "object",
+
+      "properties": {
+
+        "priority": {
+          "type": "number"
+        },
+
+        "business_critical": {
+          "type": "boolean"
+        }
+
+      }
+    }
+
+  }
+}

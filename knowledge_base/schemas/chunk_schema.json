@@ -1,0 +1,74 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+
+  "title": "Chunk Schema",
+
+  "type": "object",
+
+  "required": [
+    "chunk_id",
+    "chunk_text",
+    "product_id",
+    "knowledge_type",
+    "source_file",
+    "chunk_index"
+  ],
+
+  "properties": {
+
+    "chunk_id": {
+      "type": "string"
+    },
+
+    "chunk_text": {
+      "type": "string"
+    },
+
+    "product_id": {
+      "type": "string"
+    },
+
+    "knowledge_type": {
+      "type": "string"
+    },
+
+    "source_file": {
+      "type": "string"
+    },
+
+    "source_path": {
+      "type": "string"
+    },
+
+    "chunk_index": {
+      "type": "integer"
+    },
+
+    "token_count": {
+      "type": "integer"
+    },
+
+    "chunking_strategy": {
+      "type": "string",
+
+      "enum": [
+        "semantic",
+        "heading_based",
+        "fixed_size",
+        "hybrid"
+      ]
+    },
+
+    "language": {
+      "type": "string",
+
+      "enum": [
+        "bn",
+        "en",
+        "banglish",
+        "mixed"
+      ]
+    }
+
+  }
+}
