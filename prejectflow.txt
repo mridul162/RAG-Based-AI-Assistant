@@ -2,86 +2,160 @@
 
 1. Created project root.
 
-2. Built `template.py`.
+2. Created virtual environment:
 
-3. Generated full project architecture using:
+```powershell id="jlwn44"
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+```
 
-```python template.py```
+3. Installed initial dependencies:
 
-4. Created engineering docs:
+```powershell id="jlwn47"
+pip install pyyaml python-slugify
+```
 
-   * `PROJECT_CONTEXT.md`
-   * `SYSTEM_ARCHITECTURE.md`
-   * `DECISIONS_LOG.md`
-   * `KB_DESIGN.md`
+4. Built `template.py`.
 
-5. Defined retrieval-first KB architecture.
+5. Generated full project architecture:
 
-6. Designed canonical product KB structure.
+```powershell id="jlwn4a"
+python template.py
+```
 
-7. Built `create_product_template.py`.
+6. Created engineering docs:
 
-8. Generated first product KB:
+```text id="jlwn4d"
+PROJECT_CONTEXT.md
+SYSTEM_ARCHITECTURE.md
+DECISIONS_LOG.md
+KB_DESIGN.md
+CHUNKING_STRATEGY.md
+```
 
-``` python product_template.py --category honey --product sundarbans_kholisha_honey ```
+7. Defined:
 
-9. Finalized:
-    incremental indexing philosophy
-    semantic isolation strategy
-    partial re-embedding strategy
+   * retrieval-first architecture
+   * semantic isolation strategy
+   * incremental indexing philosophy
+   * partial re-embedding strategy
+   * heading-aware chunking strategy
 
-10. Created bulk product generation command list.
+8. Designed canonical product KB structure.
 
-11. Built: scripts/generate_products.ps1
+9. Built `create_product_template.py`.
 
-12. Executed bulk canonical product structure generation: `.\scripts\generate_products.ps1`
+10. Generated first product KB:
 
-13. Started metadata architecture phase.
+```powershell id="jlwn4g"
+python product_template.py --category honey --product sundarbans_kholisha_honey
+```
 
-14. Designed schema separation:
-        product_schema.json
-        chunk_schema.json
-        metadata_schema.json
-        retrieval_schema.json
+11. Built bulk generation script:
 
-15. Created: CHUNKING_STRATEGY.md
+```text id="jlwn4j"
+scripts/generate_products.ps1
+```
 
-16. Created modular ingestion workflow folders:
-        ingestion/
-        │
-        ├── loaders/
-        │   ├── markdown_loader.py
-        │   └── product_metadata_loader.py
-        │
-        ├── parsers/
-        │   └── markdown_parser.py
-        │
-        ├── validators/
-        │   └── kb_validator.py
-        │
-        ├── chunkers/
-        │   └── semantic_chunker.py
-        │
-        ├── embedders/
-        │   └── bge_embedder.py
-        │
-        ├── vectorstores/
-        │   └── faiss_store.py
-        │
-        ├── pipelines/
-        │   └── ingestion_pipeline.py
-        │
-        └── utils/
-            ├── normalizer.py
-            └── logging_utils.py
+12. Executed bulk product KB generation:
 
-16. Finalized artifact structure (Moved them from ingestion/ to artifacts/):
-        raw/
-        cleaned/
-        normalized/
-        chunked/
-        embeddings/
-        pipeline_logs/
+```powershell id="jlwn4m"
+.\scripts\generate_products.ps1
+```
 
+13. Designed metadata architecture:
 
+```text id="jlwn4p"
+product_schema.json
+chunk_schema.json
+metadata_schema.json
+retrieval_schema.json
+```
 
+14. Standardized `product.yaml` schema.
+
+15. Implemented metadata enrichment strategy:
+
+* filesystem metadata
+* product metadata
+* retrieval metadata
+* multilingual retrieval support
+
+16. Created ingestion architecture:
+
+```text id="jlwn4s"
+ingestion/
+│
+├── loaders/
+│   ├── markdown_loader.py
+│   └── product_metadata_loader.py
+│
+├── parsers/
+│   └── markdown_parser.py
+│
+├── validators/
+│   └── kb_validator.py
+│
+├── chunkers/
+│   └── semantic_chunker.py
+│
+├── embedders/
+│   └── bge_embedder.py
+│
+├── vectorstores/
+│   └── faiss_store.py
+│
+├── pipelines/
+│   │   └── ingestion_pipeline.py
+│
+└── utils/
+    ├── normalizer.py
+    └── logging_utils.py
+```
+
+17. Added package initialization files:
+
+```powershell id="jlwn4v"
+New-Item ingestion\__init__.py
+New-Item ingestion\loaders\__init__.py
+New-Item ingestion\parsers\__init__.py
+New-Item ingestion\validators\__init__.py
+New-Item ingestion\chunkers\__init__.py
+New-Item ingestion\embedders\__init__.py
+New-Item ingestion\vectorstores\__init__.py
+New-Item ingestion\pipelines\__init__.py
+New-Item ingestion\utils\__init__.py
+```
+
+18. Finalized artifact structure:
+
+```text id="jlwn4y"
+artifacts/
+│
+├── raw/
+├── cleaned/
+├── normalized/
+├── chunked/
+├── embeddings/
+└── pipeline_logs/
+```
+
+19. Implemented:
+
+* `markdown_loader.py`
+* `product_metadata_loader.py`
+* `kb_validator.py`
+* `ingestion_pipeline.py`
+
+20. Standardized UTF-8 ingestion handling for:
+
+* markdown
+* YAML
+* multilingual metadata
+* Bangla text support
+
+21. Standardized module-based execution:
+
+```powershell id="jlwn51"
+python -m ingestion.pipelines.ingestion_pipeline
+```
