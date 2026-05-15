@@ -23,6 +23,22 @@ availability:
 pricing:
   currency: BDT
 
+  updated_at: '2026-05-15'
+  note: Subject to seasonal change.
+  variants:
+  - label: 250g
+    size_gm: 250
+    price: 0
+    in_stock: true
+  - label: 500g
+    size_gm: 500
+    price: 0
+    in_stock: true
+  - label: 1kg
+    size_gm: 1000
+    price: 0
+    in_stock: true
+
 languages_supported:
 - bn
 - en

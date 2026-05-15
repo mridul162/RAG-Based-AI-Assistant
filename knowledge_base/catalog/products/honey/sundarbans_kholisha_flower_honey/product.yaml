@@ -14,7 +14,7 @@ status: active
 visibility: public
 
 origin:
-  region: ''
+  region: Sundarbans
   country: Bangladesh
 
 availability:
@@ -23,13 +23,28 @@ availability:
 pricing:
   currency: BDT
 
+  updated_at: '2026-05-15'
+  note: Subject to seasonal change.
+  variants:
+  - label: 250g
+    size_gm: 250
+    price: 320
+    in_stock: true
+  - label: 500g
+    size_gm: 500
+    price: 600
+    in_stock: true
+  - label: 1kg
+    size_gm: 1000
+    price: 1100
+    in_stock: true
+
 languages_supported:
 - bn
 - en
 - banglish
 
 aliases:
-- fuler modhu
 - kholisha fuler modhu
 - kholisha honey
 - kholisha modhu
@@ -42,13 +57,11 @@ aliases:
 - sundarboner modhu
 - খলিশা ফুলের মধু
 - খলিশা মধু
-- ফুলের মধু
 - সুন্দরবনের খলিশা ফুলের মধু
 - সুন্দরবনের খলিশা মধু
 - সুন্দরবনের ফুলের মধু
 - সুন্দরবনের মধু
 tags:
-- fuler modhu
 - honey
 - kholisha
 - kholisha fuler
@@ -63,7 +76,6 @@ tags:
 - খলিশা
 - খলিশা ফুলের
 - খলিশা মধু
-- ফুলের মধু
 - মধু
 - সুন্দরবনের খলিশা
 - সুন্দরবনের ফুলের
@@ -75,7 +87,6 @@ retrieval:
   priority: 0.9
   business_critical: true
   boost_terms:
-  - fuler modhu
   - honey
   - kholisha fuler modhu
   - kholisha honey
@@ -85,7 +96,6 @@ retrieval:
   - sundarboner kholisha fuler modhu
   - খলিশা ফুলের মধু
   - খলিশা মধু
-  - ফুলের মধু
   - সুন্দরবনের খলিশা ফুলের মধু
   - সুন্দরবনের খলিশা মধু
   - সুন্দরবনের ফুলের মধু
