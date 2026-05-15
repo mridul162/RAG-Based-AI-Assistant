@@ -43,3 +43,45 @@
         chunk_schema.json
         metadata_schema.json
         retrieval_schema.json
+
+15. Created: CHUNKING_STRATEGY.md
+
+16. Created modular ingestion workflow folders:
+        ingestion/
+        │
+        ├── loaders/
+        │   ├── markdown_loader.py
+        │   └── product_metadata_loader.py
+        │
+        ├── parsers/
+        │   └── markdown_parser.py
+        │
+        ├── validators/
+        │   └── kb_validator.py
+        │
+        ├── chunkers/
+        │   └── semantic_chunker.py
+        │
+        ├── embedders/
+        │   └── bge_embedder.py
+        │
+        ├── vectorstores/
+        │   └── faiss_store.py
+        │
+        ├── pipelines/
+        │   └── ingestion_pipeline.py
+        │
+        └── utils/
+            ├── normalizer.py
+            └── logging_utils.py
+
+16. Finalized artifact structure (Moved them from ingestion/ to artifacts/):
+        raw/
+        cleaned/
+        normalized/
+        chunked/
+        embeddings/
+        pipeline_logs/
+
+
+

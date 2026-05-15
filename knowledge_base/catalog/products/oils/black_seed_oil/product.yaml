@@ -1,20 +1,20 @@
 schema_version: 1
 
-product_id:
-slug:
+product_id: black_seed_oil
+slug: black-seed-oil
 
 name:
-  bn:
-  en:
+  bn: কালো বীজ তেল
+  en: Black Seed Oil
 
-category:
-subcategory:
+category: oils
+subcategory: ''
 
 status: active
 visibility: public
 
 origin:
-  region:
+  region: ''
   country: Bangladesh
 
 availability:
@@ -24,23 +24,55 @@ pricing:
   currency: BDT
 
 languages_supported:
-  - bn
-  - en
-  - banglish
+- bn
+- en
+- banglish
 
-aliases: []
+aliases:
+- bij tel
+- black oil
+- black seed oil
+- kalo bij tel
+- kalo tel
+- seed oil
+- কালো তেল
+- কালো বীজ তেল
+- বীজ তেল
+tags:
+- bij tel
+- black
+- black oil
+- black seed
+- kalo bij
+- kalo tel
+- oil
+- oils
+- seed
+- seed oil
+- কালো
+- কালো তেল
+- কালো বীজ
+- তেল
+- বীজ
+- বীজ তেল
 
-tags: []
-
-embedding_context: ""
+embedding_context: ''
 
 retrieval:
-  priority: 0.90
+  priority: 0.9
   business_critical: true
-  boost_terms: []
+  boost_terms:
+  - bij tel
+  - black oil
+  - black seed oil
+  - kalo bij tel
+  - seed oil
+  - কালো তেল
+  - কালো বীজ তেল
+  - বীজ তেল
 
 content_defaults:
   primary_language: bn
   fallback_language: en
 
-updated_at:
+updated_at: '2026-05-15'

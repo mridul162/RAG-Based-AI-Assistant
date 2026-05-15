@@ -1,20 +1,20 @@
 schema_version: 1
 
-product_id:
-slug:
+product_id: kalmi_dates
+slug: kalmi-dates
 
 name:
-  bn:
-  en:
+  bn: কলমি খেজুর
+  en: Kalmi Dates
 
-category:
-subcategory:
+category: dates
+subcategory: ''
 
 status: active
 visibility: public
 
 origin:
-  region:
+  region: ''
   country: Bangladesh
 
 availability:
@@ -24,23 +24,36 @@ pricing:
   currency: BDT
 
 languages_supported:
-  - bn
-  - en
-  - banglish
+- bn
+- en
+- banglish
 
-aliases: []
+aliases:
+- kalmi dates
+- klmi khejur
+- কলমি খেজুর
+tags:
+- dates
+- kalmi
+- kalmi dates
+- klmi khejur
+- কলমি
+- কলমি খেজুর
+- খেজুর
 
-tags: []
-
-embedding_context: ""
+embedding_context: ''
 
 retrieval:
-  priority: 0.90
+  priority: 0.9
   business_critical: true
-  boost_terms: []
+  boost_terms:
+  - dates
+  - kalmi dates
+  - klmi khejur
+  - কলমি খেজুর
 
 content_defaults:
   primary_language: bn
   fallback_language: en
 
-updated_at:
+updated_at: '2026-05-15'

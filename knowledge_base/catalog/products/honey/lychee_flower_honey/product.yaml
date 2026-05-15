@@ -1,20 +1,20 @@
 schema_version: 1
 
-product_id:
-slug:
+product_id: lychee_flower_honey
+slug: lychee-flower-honey
 
 name:
-  bn:
-  en:
+  bn: লিচু ফুলের মধু
+  en: Lychee Flower Honey
 
-category:
-subcategory:
+category: honey
+subcategory: ''
 
 status: active
 visibility: public
 
 origin:
-  region:
+  region: ''
   country: Bangladesh
 
 availability:
@@ -24,23 +24,49 @@ pricing:
   currency: BDT
 
 languages_supported:
-  - bn
-  - en
-  - banglish
+- bn
+- en
+- banglish
 
-aliases: []
+aliases:
+- fuler modhu
+- lichu fuler modhu
+- lichu modhu
+- lychee flower honey
+- lychee honey
+- ফুলের মধু
+- লিচু ফুলের মধু
+- লিচু মধু
+tags:
+- fuler modhu
+- honey
+- lichu fuler
+- lichu modhu
+- lychee
+- lychee honey
+- ফুলের মধু
+- মধু
+- লিচু
+- লিচু ফুলের
+- লিচু মধু
 
-tags: []
-
-embedding_context: ""
+embedding_context: ''
 
 retrieval:
-  priority: 0.90
+  priority: 0.9
   business_critical: true
-  boost_terms: []
+  boost_terms:
+  - fuler modhu
+  - honey
+  - lichu fuler modhu
+  - lychee flower honey
+  - lychee honey
+  - ফুলের মধু
+  - লিচু ফুলের মধু
+  - লিচু মধু
 
 content_defaults:
   primary_language: bn
   fallback_language: en
 
-updated_at:
+updated_at: '2026-05-15'

@@ -1,20 +1,20 @@
 schema_version: 1
 
-product_id:
-slug:
+product_id: hot_pressed_mustard_oil
+slug: hot-pressed-mustard-oil
 
 name:
-  bn:
-  en:
+  bn: গরম চাপা সরিষার তেল
+  en: Hot Pressed Mustard Oil
 
-category:
-subcategory:
+category: oils
+subcategory: ''
 
 status: active
 visibility: public
 
 origin:
-  region:
+  region: ''
   country: Bangladesh
 
 availability:
@@ -24,23 +24,87 @@ pricing:
   currency: BDT
 
 languages_supported:
-  - bn
-  - en
-  - banglish
+- bn
+- en
+- banglish
 
-aliases: []
+aliases:
+- chapa sorishar tel
+- chapa tel
+- grm chapa sorishar tel
+- grm chapa tel
+- grm sorishar tel
+- grm tel
+- hot mustard oil
+- hot oil
+- hot pressed mustard oil
+- hot pressed oil
+- mustard oil
+- pressed mustard oil
+- pressed oil
+- sorishar tel
+- গরম চাপা তেল
+- গরম চাপা সরিষার তেল
+- গরম তেল
+- গরম সরিষার তেল
+- চাপা তেল
+- চাপা সরিষার তেল
+- সরিষার তেল
+tags:
+- chapa sorishar
+- chapa tel
+- grm chapa
+- grm sorishar
+- grm tel
+- hot
+- hot mustard
+- hot oil
+- hot pressed
+- mustard
+- mustard oil
+- oil
+- oils
+- pressed
+- pressed mustard
+- pressed oil
+- sorishar tel
+- গরম
+- গরম চাপা
+- গরম তেল
+- গরম সরিষার
+- চাপা
+- চাপা তেল
+- চাপা সরিষার
+- তেল
+- সরিষার
+- সরিষার তেল
 
-tags: []
-
-embedding_context: ""
+embedding_context: ''
 
 retrieval:
-  priority: 0.90
+  priority: 0.9
   business_critical: true
-  boost_terms: []
+  boost_terms:
+  - chapa sorishar tel
+  - grm chapa sorishar tel
+  - hot mustard oil
+  - hot oil
+  - hot pressed mustard oil
+  - hot pressed oil
+  - mustard oil
+  - pressed mustard oil
+  - pressed oil
+  - sorishar tel
+  - গরম চাপা তেল
+  - গরম চাপা সরিষার তেল
+  - গরম তেল
+  - গরম সরিষার তেল
+  - চাপা তেল
+  - চাপা সরিষার তেল
+  - সরিষার তেল
 
 content_defaults:
   primary_language: bn
   fallback_language: en
 
-updated_at:
+updated_at: '2026-05-15'

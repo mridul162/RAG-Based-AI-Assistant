@@ -1,20 +1,20 @@
 schema_version: 1
 
-product_id:
-slug:
+product_id: red_rice
+slug: red-rice
 
 name:
-  bn:
-  en:
+  bn: লাল চাল
+  en: Red Rice
 
-category:
-subcategory:
+category: grains
+subcategory: ''
 
 status: active
 visibility: public
 
 origin:
-  region:
+  region: ''
   country: Bangladesh
 
 availability:
@@ -24,23 +24,36 @@ pricing:
   currency: BDT
 
 languages_supported:
-  - bn
-  - en
-  - banglish
+- bn
+- en
+- banglish
 
-aliases: []
+aliases:
+- lal chal
+- red rice
+- লাল চাল
+tags:
+- grains
+- lal chal
+- red
+- red rice
+- rice
+- চাল
+- লাল
+- লাল চাল
 
-tags: []
-
-embedding_context: ""
+embedding_context: ''
 
 retrieval:
-  priority: 0.90
+  priority: 0.9
   business_critical: true
-  boost_terms: []
+  boost_terms:
+  - lal chal
+  - red rice
+  - লাল চাল
 
 content_defaults:
   primary_language: bn
   fallback_language: en
 
-updated_at:
+updated_at: '2026-05-15'

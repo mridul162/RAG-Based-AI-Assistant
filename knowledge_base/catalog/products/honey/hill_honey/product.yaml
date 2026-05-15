@@ -1,20 +1,20 @@
 schema_version: 1
 
-product_id:
-slug:
+product_id: hill_honey
+slug: hill-honey
 
 name:
-  bn:
-  en:
+  bn: পাহাড়ি মধু
+  en: Hill Honey
 
-category:
-subcategory:
+category: honey
+subcategory: ''
 
 status: active
 visibility: public
 
 origin:
-  region:
+  region: ''
   country: Bangladesh
 
 availability:
@@ -24,23 +24,36 @@ pricing:
   currency: BDT
 
 languages_supported:
-  - bn
-  - en
-  - banglish
+- bn
+- en
+- banglish
 
-aliases: []
+aliases:
+- hill honey
+- pahad়i modhu
+- পাহাড়ি মধু
+tags:
+- hill
+- hill honey
+- honey
+- pahad়i modhu
+- পাহাড়ি
+- পাহাড়ি মধু
+- মধু
 
-tags: []
-
-embedding_context: ""
+embedding_context: ''
 
 retrieval:
-  priority: 0.90
+  priority: 0.9
   business_critical: true
-  boost_terms: []
+  boost_terms:
+  - hill honey
+  - honey
+  - pahad়i modhu
+  - পাহাড়ি মধু
 
 content_defaults:
   primary_language: bn
   fallback_language: en
 
-updated_at:
+updated_at: '2026-05-15'

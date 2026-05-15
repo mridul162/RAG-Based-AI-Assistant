@@ -1,20 +1,20 @@
 schema_version: 1
 
-product_id:
-slug:
+product_id: honey_nuts
+slug: honey-nuts
 
 name:
-  bn:
-  en:
+  bn: মধু বাদাম
+  en: Honey Nuts
 
-category:
-subcategory:
+category: nuts
+subcategory: ''
 
 status: active
 visibility: public
 
 origin:
-  region:
+  region: ''
   country: Bangladesh
 
 availability:
@@ -24,23 +24,35 @@ pricing:
   currency: BDT
 
 languages_supported:
-  - bn
-  - en
-  - banglish
+- bn
+- en
+- banglish
 
-aliases: []
+aliases:
+- honey nuts
+- modhu badam
+- মধু বাদাম
+tags:
+- honey
+- honey nuts
+- modhu badam
+- nuts
+- বাদাম
+- মধু
+- মধু বাদাম
 
-tags: []
-
-embedding_context: ""
+embedding_context: ''
 
 retrieval:
-  priority: 0.90
+  priority: 0.9
   business_critical: true
-  boost_terms: []
+  boost_terms:
+  - honey nuts
+  - modhu badam
+  - মধু বাদাম
 
 content_defaults:
   primary_language: bn
   fallback_language: en
 
-updated_at:
+updated_at: '2026-05-15'

@@ -1,20 +1,20 @@
 schema_version: 1
 
-product_id:
-slug:
+product_id: pink_salt
+slug: pink-salt
 
 name:
-  bn:
-  en:
+  bn: গোলাপী লবণ
+  en: Pink Salt
 
-category:
-subcategory:
+category: salt
+subcategory: ''
 
 status: active
 visibility: public
 
 origin:
-  region:
+  region: ''
   country: Bangladesh
 
 availability:
@@ -24,23 +24,34 @@ pricing:
   currency: BDT
 
 languages_supported:
-  - bn
-  - en
-  - banglish
+- bn
+- en
+- banglish
 
-aliases: []
+aliases:
+- pink salt
+- গোলাপী লবণ
+tags:
+- golapi lbণ
+- pink
+- pink salt
+- salt
+- গোলাপী
+- গোলাপী লবণ
+- লবণ
 
-tags: []
-
-embedding_context: ""
+embedding_context: ''
 
 retrieval:
-  priority: 0.90
+  priority: 0.9
   business_critical: true
-  boost_terms: []
+  boost_terms:
+  - pink salt
+  - salt
+  - গোলাপী লবণ
 
 content_defaults:
   primary_language: bn
   fallback_language: en
 
-updated_at:
+updated_at: '2026-05-15'
