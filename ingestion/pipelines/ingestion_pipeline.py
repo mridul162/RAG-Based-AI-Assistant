@@ -3,32 +3,26 @@ ingestion_pipeline.py
 
 Purpose:
 --------
-Main orchestration pipeline for the current ingestion phase.
+Main orchestration pipeline for the Hasanah Mart
+multilingual RAG ingestion system.
 
-Current Pipeline Scope:
------------------------
-1. Load markdown documents
-2. Load product metadata
-3. Validate KB structure
-4. Print ingestion summary
-
-This pipeline DOES NOT yet:
----------------------------
-- parse markdown
-- normalize text
-- chunk documents
-- generate embeddings
-- build vector indexes
-
-Those stages will be added incrementally later.
+Current Pipeline Stages:
+------------------------
+1. Validate KB
+2. Load markdown documents
+3. Parse semantic sections
+4. Normalize content
+5. Generate semantic chunks
+6. Persist artifacts
+7. Generate ingestion summary
 
 Architecture Philosophy:
 ------------------------
-- simple
+- retrieval-first
 - observable
 - modular
-- incremental
-- retrieval-first
+- semantically stable
+- multilingual-safe
 """
 
 import sys
@@ -36,28 +30,54 @@ sys.stdout.reconfigure(encoding="utf-8")
 
 from pathlib import Path
 from collections import Counter
-import ingestion.loaders
-import ingestion.validators
 
 # ---------------------------------------------------------
-# IMPORT LOADERS
+# LOADERS
 # ---------------------------------------------------------
 
 from ingestion.loaders.markdown_loader import (
     MarkdownLoader
 )
 
-from ingestion.loaders.product_metadata_loader import (
-    ProductMetadataLoader
-)
-
 # ---------------------------------------------------------
-# IMPORT VALIDATOR
+# VALIDATORS
 # ---------------------------------------------------------
 
 from ingestion.validators.kb_validator import (
     KBValidator,
     print_validation_report
+)
+
+# ---------------------------------------------------------
+# PARSERS
+# ---------------------------------------------------------
+
+from ingestion.parsers.markdown_parser import (
+    MarkdownParser
+)
+
+# ---------------------------------------------------------
+# NORMALIZERS
+# ---------------------------------------------------------
+
+from ingestion.utils.normalizer import (
+    TextNormalizer
+)
+
+# ---------------------------------------------------------
+# CHUNKERS
+# ---------------------------------------------------------
+
+from ingestion.chunkers.semantic_chunker import (
+    SemanticChunker
+)
+
+# ---------------------------------------------------------
+# ARTIFACTS
+# ---------------------------------------------------------
+
+from ingestion.utils.artifact_writer import (
+    ArtifactWriter
 )
 
 
@@ -67,7 +87,7 @@ from ingestion.validators.kb_validator import (
 
 class IngestionPipeline:
     """
-    Main ingestion pipeline orchestrator.
+    Main ingestion orchestrator.
     """
 
     def __init__(
@@ -78,238 +98,314 @@ class IngestionPipeline:
         self.kb_root = Path(kb_root)
 
         # -------------------------------------------------
-        # Initialize components
+        # Initialize Components
         # -------------------------------------------------
-
-        self.markdown_loader = MarkdownLoader(
-            kb_root=str(self.kb_root)
-        )
-
-        self.metadata_loader = ProductMetadataLoader(
-            kb_root=str(self.kb_root)
-        )
 
         self.validator = KBValidator(
             kb_root=str(self.kb_root)
         )
 
+        self.loader = MarkdownLoader(
+            kb_root=str(self.kb_root)
+        )
+
+        self.parser = MarkdownParser()
+
+        self.normalizer = TextNormalizer()
+
+        self.chunker = SemanticChunker()
+
+        self.artifact_writer = ArtifactWriter()
+
     # -----------------------------------------------------
 
     def run(self):
         """
-        Execute current ingestion pipeline.
+        Execute full ingestion pipeline.
         """
 
         self._print_pipeline_header()
 
         # -------------------------------------------------
-        # STEP 1 — VALIDATION
+        # STEP 1 — VALIDATE KB
         # -------------------------------------------------
 
-        print("\n[STEP 1] Validating Knowledge Base...\n")
+        print("\n[STEP 1] Validating KB...\n")
 
-        validation_report = self.validator.validate()
+        validation_report = (
+            self.validator.validate()
+        )
 
         print_validation_report(
             validation_report
         )
 
-        # -------------------------------------------------
-        # Stop pipeline if KB invalid
-        # -------------------------------------------------
-
         if not validation_report.valid:
 
             print("\n[PIPELINE STOPPED]")
             print(
-                "Knowledge base contains validation errors."
+                "KB validation failed."
             )
 
             return
 
         # -------------------------------------------------
-        # STEP 2 — LOAD MARKDOWN DOCUMENTS
+        # STEP 2 — LOAD DOCUMENTS
         # -------------------------------------------------
 
-        print("\n[STEP 2] Loading Markdown Documents...\n")
+        print("\n[STEP 2] Loading Documents...\n")
 
-        documents = self.markdown_loader.load()
+        documents = self.loader.load()
 
         print(
-            f"Loaded {len(documents)} markdown documents."
+            f"Loaded {len(documents)} documents."
         )
 
         # -------------------------------------------------
-        # STEP 3 — LOAD PRODUCT METADATA
+        # PIPELINE STATISTICS
         # -------------------------------------------------
 
-        print("\n[STEP 3] Loading Product Metadata...\n")
+        total_sections = 0
 
-        metadata_objects = self.metadata_loader.load()
+        total_chunks = 0
 
-        print(
-            f"Loaded {len(metadata_objects)} metadata files."
+        # -------------------------------------------------
+        # STEP 3 — PROCESS DOCUMENTS
+        # -------------------------------------------------
+
+        print("\n[STEP 3] Processing Documents...\n")
+
+        for i, document in enumerate(documents, start=1):
+
+            print(
+                f"[{i}/{len(documents)}] "
+                f"{document.product_id} "
+                f"→ {document.file_type}"
+            )
+
+            # ---------------------------------------------
+            # Parse Sections
+            # ---------------------------------------------
+
+            parsed_sections = self.parser.parse(
+                document.content
+            )
+
+            total_sections += len(
+                parsed_sections
+            )
+
+            # ---------------------------------------------
+            # Persist Parsed Artifacts
+            # ---------------------------------------------
+
+            self.artifact_writer.write_parsed_sections(
+
+                sections=parsed_sections,
+
+                product_id=document.product_id,
+
+                source_file=document.file_type,
+            )
+
+            # ---------------------------------------------
+            # Normalize Sections
+            # ---------------------------------------------
+
+            normalized_sections = (
+                self.normalizer.normalize_sections(
+                    parsed_sections
+                )
+            )
+
+            # ---------------------------------------------
+            # Persist Normalized Artifacts
+            # ---------------------------------------------
+
+            self.artifact_writer.write_normalized_sections(
+
+                sections=normalized_sections,
+
+                product_id=document.product_id,
+
+                source_file=document.file_type,
+            )
+
+            # ---------------------------------------------
+            # Generate Chunks
+            # ---------------------------------------------
+
+            chunks = self.chunker.chunk_sections(
+
+                sections=normalized_sections,
+
+                base_metadata={
+
+                    "product_id": (
+                        document.product_id
+                    ),
+
+                    "category": (
+                        document.category
+                    ),
+
+                    "source_file": (
+                        f"{document.file_type}.md"
+                    ),
+                }
+            )
+
+            total_chunks += len(chunks)
+
+            # ---------------------------------------------
+            # Persist Chunk Artifacts
+            # ---------------------------------------------
+
+            self.artifact_writer.write_chunks(
+
+                chunks=chunks,
+
+                product_id=document.product_id,
+
+                source_file=document.file_type,
+            )
+
+        # -------------------------------------------------
+        # STEP 4 — PIPELINE SUMMARY
+        # -------------------------------------------------
+
+        self._print_pipeline_summary(
+
+            documents=documents,
+
+            total_sections=total_sections,
+
+            total_chunks=total_chunks,
         )
 
         # -------------------------------------------------
-        # STEP 4 — INGESTION SUMMARY
+        # STEP 5 — WRITE PIPELINE LOG
         # -------------------------------------------------
 
-        self._print_ingestion_summary(
-            documents,
-            metadata_objects,
-        )
+        self.artifact_writer.write_pipeline_log({
+
+            "documents_processed": (
+                len(documents)
+            ),
+
+            "sections_generated": (
+                total_sections
+            ),
+
+            "chunks_generated": (
+                total_chunks
+            ),
+
+            "status": "success",
+        })
 
         print("\n[PIPELINE COMPLETED SUCCESSFULLY]")
 
     # -----------------------------------------------------
 
-    def _print_pipeline_header(self):
-
-        print("\n" + "=" * 70)
-        print("HASANAH MART RAG INGESTION PIPELINE")
-        print("=" * 70)
-
-        print(f"\nKnowledge Base Root:")
-        print(f"{self.kb_root}")
-
-    # -----------------------------------------------------
-
-    def _print_ingestion_summary(
-        self,
-        documents,
-        metadata_objects,
+    def _print_pipeline_header(
+        self
     ):
 
         print("\n" + "=" * 70)
-        print("INGESTION SUMMARY")
+        print("HASANAH MART INGESTION PIPELINE")
         print("=" * 70)
 
-        # -------------------------------------------------
-        # Document Statistics
-        # -------------------------------------------------
+        print(f"\nKB Root:")
+        print(self.kb_root)
 
-        print("\nDOCUMENT STATISTICS")
-        print("-" * 70)
+    # -----------------------------------------------------
 
-        print(f"Total Documents : {len(documents)}")
+    def _print_pipeline_summary(
+        self,
+        documents,
+        total_sections,
+        total_chunks,
+    ):
+
+        print("\n" + "=" * 70)
+        print("PIPELINE SUMMARY")
+        print("=" * 70)
+
+        print(
+            f"\nDocuments Processed : "
+            f"{len(documents)}"
+        )
+
+        print(
+            f"Sections Generated  : "
+            f"{total_sections}"
+        )
+
+        print(
+            f"Chunks Generated    : "
+            f"{total_chunks}"
+        )
 
         # -------------------------------------------------
         # Category Distribution
         # -------------------------------------------------
 
         category_counter = Counter(
+
             doc.category
             for doc in documents
         )
 
-        print("\nDocuments Per Category:")
+        print("\nCategory Distribution:")
 
         for category, count in sorted(
             category_counter.items()
         ):
 
-            print(f"  - {category}: {count}")
+            print(
+                f"  - {category}: {count}"
+            )
 
         # -------------------------------------------------
         # File Type Distribution
         # -------------------------------------------------
 
         file_type_counter = Counter(
+
             doc.file_type
             for doc in documents
         )
 
-        print("\nDocuments Per File Type:")
+        print("\nFile Type Distribution:")
 
         for file_type, count in sorted(
             file_type_counter.items()
         ):
 
-            print(f"  - {file_type}: {count}")
-
-        # -------------------------------------------------
-        # Metadata Statistics
-        # -------------------------------------------------
-
-        print("\nMETADATA STATISTICS")
-        print("-" * 70)
-
-        print(
-            f"Total Product Metadata Files : "
-            f"{len(metadata_objects)}"
-        )
-
-        # -------------------------------------------------
-        # Product Coverage
-        # -------------------------------------------------
-
-        document_product_ids = set(
-            doc.product_id
-            for doc in documents
-        )
-
-        metadata_product_ids = set(
-            metadata.product_id
-            for metadata in metadata_objects
-        )
-
-        missing_metadata = (
-            document_product_ids -
-            metadata_product_ids
-        )
-
-        if missing_metadata:
-
-            print("\nProducts Missing Metadata:")
-
-            for product_id in sorted(
-                missing_metadata
-            ):
-
-                print(f"  - {product_id}")
-
-        else:
-
             print(
-                "\nAll products have metadata coverage."
+                f"  - {file_type}: {count}"
             )
 
-        # -------------------------------------------------
-        # Sample Document Preview
-        # -------------------------------------------------
+        print("\nArtifacts Written To:")
 
-        if documents:
-
-            sample = documents[0]
-
-            print("\nSAMPLE DOCUMENT")
-            print("-" * 70)
-
-            print(f"Product ID : {sample.product_id}")
-            print(f"Category   : {sample.category}")
-            print(f"File Type  : {sample.file_type}")
-            print(f"Path       : {sample.path}")
-
-            preview = sample.content[:300]
-
-            print("\nContent Preview:\n")
-
-            print(preview)
+        print("  artifacts/parsed/")
+        print("  artifacts/normalized/")
+        print("  artifacts/chunked/")
+        print("  artifacts/pipeline_logs/")
 
 
 # ---------------------------------------------------------
 # MAIN EXECUTION
 # ---------------------------------------------------------
 
-# if __name__ == "__main__":
+if __name__ == "__main__":
 
-#     pipeline = IngestionPipeline(
+    pipeline = IngestionPipeline(
 
-#         # Recommended KB root:
-#         # knowledge_base/catalog/products
+        kb_root=(
+            "knowledge_base/catalog/products"
+        )
+    )
 
-#         kb_root="knowledge_base/catalog/products"
-#     )
-
-#     pipeline.run()
+    pipeline.run()

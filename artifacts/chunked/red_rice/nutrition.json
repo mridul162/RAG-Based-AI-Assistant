@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "42054cd2-f158-48c6-8898-90ea82bf99e4",
+    "text": "# Nutrition",
+    "metadata": {
+      "product_id": "red_rice",
+      "category": "grains",
+      "source_file": "nutrition.md",
+      "heading": "Nutrition",
+      "heading_path": [
+        "Nutrition"
+      ],
+      "section_id": null,
+      "section_level": 1,
+      "chunk_index": 0,
+      "section_index": 0,
+      "word_count": 2
+    }
+  }
+]
