@@ -302,14 +302,14 @@ class IngestionPipeline:
 # MAIN EXECUTION
 # ---------------------------------------------------------
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
 
-    pipeline = IngestionPipeline(
+#     pipeline = IngestionPipeline(
 
-        # Recommended KB root:
-        # knowledge_base/catalog/products
+#         # Recommended KB root:
+#         # knowledge_base/catalog/products
 
-        kb_root="knowledge_base/catalog/products"
-    )
+#         kb_root="knowledge_base/catalog/products"
+#     )
 
-    pipeline.run()
+#     pipeline.run()
