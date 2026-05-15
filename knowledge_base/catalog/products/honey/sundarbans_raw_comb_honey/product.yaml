@@ -4,7 +4,7 @@ product_id: sundarbans_raw_comb_honey
 slug: sundarbans-raw-comb-honey
 
 name:
-  bn: সুন্দরবনের কাঁচা চিরুনি মধু
+  bn: সুন্দরবনের প্রাকৃতিক চাকের মধু
   en: Sundarbans Raw Comb Honey
 
 category: honey
@@ -56,34 +56,34 @@ aliases:
 - sundarboner kancha chiruni modhu
 - sundarboner kancha modhu
 - sundarboner modhu
-- কাঁচা চিরুনি মধু
+- কাঁচা চাকের মধু
 - কাঁচা মধু
-- চিরুনি মধু
-- সুন্দরবনের কাঁচা চিরুনি মধু
+- চাকের মধু
+- সুন্দরবনের কাঁচা চাকের মধু
 - সুন্দরবনের কাঁচা মধু
-- সুন্দরবনের চিরুনি মধু
+- সুন্দরবনের চাকের মধু
 - সুন্দরবনের মধু
 tags:
-- chiruni modhu
+- chaker modhu
 - comb
 - comb honey
 - honey
-- kancha chiruni
+- kancha chaker
 - kancha modhu
 - sundarbans
 - sundarbans comb
 - sundarbans honey
-- sundarboner chiruni
+- sundarboner chaker
 - sundarboner kancha
 - sundarboner modhu
 - কাঁচা
-- কাঁচা চিরুনি
+- কাঁচা চাকের
 - কাঁচা মধু
-- চিরুনি
-- চিরুনি মধু
+- চাকের
+- চাকের মধু
 - মধু
 - সুন্দরবনের কাঁচা
-- সুন্দরবনের চিরুনি
+- সুন্দরবনের চাকের
 - সুন্দরবনের মধু
 
 embedding_context: ''
@@ -92,20 +92,20 @@ retrieval:
   priority: 0.9
   business_critical: true
   boost_terms:
-  - chiruni modhu
+  - chaker modhu
   - comb honey
   - honey
-  - kancha chiruni modhu
+  - kancha chaker modhu
   - sundarbans comb honey
   - sundarbans honey
   - sundarbans raw comb honey
-  - sundarboner kancha chiruni modhu
-  - কাঁচা চিরুনি মধু
+  - sundarboner kancha chaker modhu
+  - কাঁচা চাকের মধু
   - কাঁচা মধু
-  - চিরুনি মধু
-  - সুন্দরবনের কাঁচা চিরুনি মধু
+  - চাকের মধু
+  - সুন্দরবনের কাঁচা চাকের মধু
   - সুন্দরবনের কাঁচা মধু
-  - সুন্দরবনের চিরুনি মধু
+  - সুন্দরবনের চাকের মধু
   - সুন্দরবনের মধু
 
 content_defaults:
