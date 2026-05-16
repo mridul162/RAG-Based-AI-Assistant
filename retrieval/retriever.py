@@ -14,14 +14,6 @@ Responsibilities:
 - Provide retrieval debugging utilities
 - Format retrieval context
 
-This retriever DOES NOT:
-------------------------
-- generate final LLM responses
-- rerank results
-- perform hybrid retrieval
-- manage chat memory
-- orchestrate conversations
-
 Architecture Philosophy:
 ------------------------
 Simple retrieval orchestration.
@@ -31,10 +23,17 @@ Debuggable semantic retrieval.
 
 import sys
 
-sys.stdout.reconfigure(encoding="utf-8")
+sys.stdout.reconfigure(
+    encoding="utf-8"
+)
 
 from dataclasses import dataclass
-from typing import List, Dict, Any
+
+from typing import (
+    List,
+    Dict,
+    Any,
+)
 
 from ingestion.embedders.openai_embedder import (
     OpenAIEmbedder
@@ -98,18 +97,24 @@ class SemanticRetriever:
         print("\nEmbedding query...")
 
         query_embedding = (
-            self.embedder._generate_embedding(
+            self.embedder.embed_text(
                 query
             )
         )
 
-        print("Searching vector store...")
+        print(
+            "Searching vector store..."
+        )
 
-        results = self.vector_store.search(
+        results = (
+            self.vector_store.search(
 
-            query_embedding=query_embedding,
+                query_embedding=(
+                    query_embedding
+                ),
 
-            top_k=top_k,
+                top_k=top_k,
+            )
         )
 
         retrieval_context = (
@@ -133,7 +138,9 @@ class SemanticRetriever:
 
     def _build_context(
         self,
-        results: List[RetrievalResult]
+        results: List[
+            RetrievalResult
+        ]
     ) -> str:
         """
         Build retrieval context string.
@@ -171,14 +178,20 @@ Content:
 
     def print_results(
         self,
-        retrieval_response: RetrievalResponse
+        retrieval_response: (
+            RetrievalResponse
+        )
     ):
         """
         Pretty-print retrieval results.
         """
 
         print("\n" + "=" * 70)
-        print("RETRIEVAL RESULTS")
+
+        print(
+            "RETRIEVAL RESULTS"
+        )
+
         print("=" * 70)
 
         print(
@@ -198,7 +211,9 @@ Content:
 
             print("\n" + "-" * 70)
 
-            print(f"RESULT #{i}")
+            print(
+                f"RESULT #{i}"
+            )
 
             print("-" * 70)
 
@@ -220,7 +235,9 @@ Content:
 
                 print(f"{k}: {v}")
 
-            print("\nText Preview:")
+            print(
+                "\nText Preview:"
+            )
 
             print(
                 result.text[:700]
@@ -232,8 +249,6 @@ Content:
 # ---------------------------------------------------------
 
 if __name__ == "__main__":
-
-    from dataclasses import dataclass
 
     # -----------------------------------------------------
     # Sample Chunks
@@ -251,7 +266,9 @@ if __name__ == "__main__":
             """,
 
             "metadata": {
-                "source_file": "overview.md"
+                "source_file": (
+                    "overview.md"
+                )
             }
         },
 
@@ -264,7 +281,9 @@ if __name__ == "__main__":
             """,
 
             "metadata": {
-                "source_file": "benefits.md"
+                "source_file": (
+                    "benefits.md"
+                )
             }
         },
 
@@ -277,7 +296,9 @@ if __name__ == "__main__":
             """,
 
             "metadata": {
-                "source_file": "storage.md"
+                "source_file": (
+                    "storage.md"
+                )
             }
         }
     ]
@@ -289,23 +310,33 @@ if __name__ == "__main__":
     embedder = OpenAIEmbedder()
 
     # -----------------------------------------------------
-    # Generate Embedded Chunks
+    # Embedded Chunk Model
     # -----------------------------------------------------
 
     @dataclass
     class EmbeddedChunk:
 
         chunk_id: str
+
         text: str
+
         embedding: List[float]
-        metadata: Dict[str, Any]
+
+        metadata: Dict[
+            str,
+            Any
+        ]
+
+    # -----------------------------------------------------
+    # Generate Embedded Chunks
+    # -----------------------------------------------------
 
     embedded_chunks = []
 
     for chunk in sample_chunks:
 
         embedding = (
-            embedder._generate_embedding(
+            embedder.embed_text(
                 chunk["text"]
             )
         )
@@ -320,7 +351,9 @@ if __name__ == "__main__":
 
                 text=chunk["text"],
 
-                embedding=embedding,
+                embedding=(
+                    embedding
+                ),
 
                 metadata=(
                     chunk["metadata"]
@@ -333,7 +366,8 @@ if __name__ == "__main__":
     # -----------------------------------------------------
 
     embedding_dimension = len(
-        embedded_chunks[0].embedding
+        embedded_chunks[0]
+        .embedding
     )
 
     vector_store = FAISSStore(
@@ -348,18 +382,24 @@ if __name__ == "__main__":
     # Create Retriever
     # -----------------------------------------------------
 
-    retriever = SemanticRetriever(
+    retriever = (
+        SemanticRetriever(
 
-        embedder=embedder,
+            embedder=embedder,
 
-        vector_store=vector_store,
+            vector_store=(
+                vector_store
+            ),
+        )
     )
 
     # -----------------------------------------------------
     # Run Retrieval Query
     # -----------------------------------------------------
 
-    query = "র মধুর উপকারিতা কী?"
+    query = (
+        "র মধুর উপকারিতা কী?"
+    )
 
     response = retriever.retrieve(
 
@@ -381,7 +421,11 @@ if __name__ == "__main__":
     # -----------------------------------------------------
 
     print("\n" + "=" * 70)
-    print("RETRIEVAL CONTEXT")
+
+    print(
+        "RETRIEVAL CONTEXT"
+    )
+
     print("=" * 70)
 
     print(
