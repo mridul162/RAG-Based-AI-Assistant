@@ -8,10 +8,6 @@ python-dotenv
 
 openai
 
-sentence-transformers
-torch
-transformers
-
 faiss-cpu
 numpy
 
