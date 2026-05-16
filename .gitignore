@@ -39,7 +39,7 @@ logs/
 
 vector_db/
 faiss_index.index
-*.index
+# *.index
 *.faiss
 *.pkl
 *.pickle
