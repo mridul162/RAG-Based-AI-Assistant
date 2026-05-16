@@ -51,8 +51,8 @@ from generation.rag_generator import (
 # EMBEDDINGS
 # ---------------------------------------------------------
 
-from ingestion.embedders.bge_embedder import (
-    BGEEmbedder
+from ingestion.embedders.openai_embedder import (
+    OpenAIEmbedder
 )
 
 # ---------------------------------------------------------
@@ -95,7 +95,7 @@ class RAGService:
         # EMBEDDER
         # -------------------------------------------------
 
-        self.embedder = BGEEmbedder(
+        self.embedder = OpenAIEmbedder(
 
             model_name=(
                 settings.embedding_model

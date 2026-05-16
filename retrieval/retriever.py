@@ -36,8 +36,8 @@ sys.stdout.reconfigure(encoding="utf-8")
 from dataclasses import dataclass
 from typing import List, Dict, Any
 
-from ingestion.embedders.bge_embedder import (
-    BGEEmbedder
+from ingestion.embedders.openai_embedder import (
+    OpenAIEmbedder
 )
 
 from ingestion.vectorstores.faiss_store import (
@@ -76,7 +76,7 @@ class SemanticRetriever:
 
     def __init__(
         self,
-        embedder: BGEEmbedder,
+        embedder: OpenAIEmbedder,
         vector_store: FAISSStore,
     ):
 
@@ -286,7 +286,7 @@ if __name__ == "__main__":
     # Initialize Embedder
     # -----------------------------------------------------
 
-    embedder = BGEEmbedder()
+    embedder = OpenAIEmbedder()
 
     # -----------------------------------------------------
     # Generate Embedded Chunks
