@@ -159,3 +159,52 @@ artifacts/
 ```powershell id="jlwn51"
 python -m ingestion.pipelines.ingestion_pipeline
 ```
+
+22. Implemented semantic markdown parser:
+        heading-aware parsing
+        HTML <section> preservation
+        markdown table preservation
+        HTML table preservation
+        heading hierarchy tracking
+23. Implemented multilingual-safe normalization:
+        Unicode normalization
+        whitespace normalization
+        line-ending normalization
+        structure-preserving cleanup
+24. Implemented semantic chunking system:
+        section-aware chunking
+        paragraph grouping
+        semantic overlap
+        metadata-rich chunks
+        table-preserving chunking
+        HTML table atomic preservation
+25. Fixed semantic chunking issues:
+        HTML table fragmentation
+        overlap duplication instability
+        semantic block preservation
+26. Implemented artifact persistence system:
+        parsed artifacts
+        normalized artifacts
+        chunk artifacts
+        pipeline execution logs
+27. Integrated full ingestion orchestration pipeline:
+        Validate KB
+            ↓
+        Load Markdown Documents
+            ↓
+        Parse Semantic Sections
+            ↓
+        Normalize Content
+            ↓
+        Generate Semantic Chunks
+            ↓
+        Persist Artifacts
+            ↓
+        Generate Pipeline Summary
+28. Current Pipeline Outputs:
+        artifacts/parsed/
+        artifacts/normalized/
+        artifacts/chunked/
+        artifacts/pipeline_logs/
+
+29. Build and Implemented bge_embedder with `python -m ingestion.embedders.bge_embedder1` command.
