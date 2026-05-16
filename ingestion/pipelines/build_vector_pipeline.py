@@ -515,7 +515,7 @@ class VectorPipeline:
             ),
 
             metadata_path=(
-                settings.metadata_path
+                settings.faiss_metadata_path
             )
         )
 

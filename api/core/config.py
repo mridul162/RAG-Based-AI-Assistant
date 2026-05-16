@@ -117,11 +117,15 @@ class Settings(BaseSettings):
     # VECTOR DATABASE
     # -------------------------------------------------
 
+    # -------------------------------------------------
+    # VECTOR DATABASE
+    # -------------------------------------------------
+
     faiss_index_path: str = (
         "artifacts/faiss/sample.index"
     )
 
-    metadata_path: str = (
+    faiss_metadata_path: str = (
         "artifacts/faiss/sample_metadata.json"
     )
 
