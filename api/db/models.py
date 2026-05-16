@@ -3,7 +3,7 @@ from sqlalchemy import Integer
 from sqlalchemy import String
 from sqlalchemy import Text
 from sqlalchemy import DateTime
-
+from sqlalchemy import JSON
 from datetime import datetime
 
 from api.db.database import Base
@@ -32,6 +32,11 @@ class Conversation(Base):
     ai_response = Column(
         Text,
         nullable=False
+    )
+
+    retrieved_sources = Column(
+        JSON,
+        nullable=True
     )
 
     created_at = Column(
