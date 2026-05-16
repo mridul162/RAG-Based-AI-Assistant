@@ -1,30 +1,5302 @@
 [
   {
-    "chunk_id": "chunk_0",
-    "text": "Pure Sundarbans honey rich in antioxidants.",
+    "chunk_id": "2d2b6212-98f4-4684-8f5a-b71ae65a919d",
+    "text": "# Authenticity",
     "metadata": {
-      "source": "test"
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
     }
   },
   {
-    "chunk_id": "chunk_1",
-    "text": "খাঁটি কাঁচা মধু প্রাকৃতিক পুষ্টিগুণে সমৃদ্ধ।",
+    "chunk_id": "9ea75f35-f67b-4a91-8bc9-808ec1960953",
+    "text": "# Benefits",
     "metadata": {
-      "source": "test"
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
     }
   },
   {
-    "chunk_id": "chunk_2",
-    "text": "Store honey in a cool dry place.",
+    "chunk_id": "37136e7d-8761-429b-abee-2d7b0ca94ca5",
+    "text": "# Comparisons",
     "metadata": {
-      "source": "test"
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
     }
   },
   {
-    "chunk_id": "chunk_3",
-    "text": "500g honey price is ৳600.",
+    "chunk_id": "763be49f-7277-4456-bc9c-4ca1f4265422",
+    "text": "# FAQ",
     "metadata": {
-      "source": "test"
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "42cf5d37-a129-449b-bf74-405c8720b00f",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "f05bce6b-a968-4047-96b2-9908e4597d93",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d66873b1-65bb-45f7-b0a7-4eb8c1c2322b",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8dc538c3-3ef0-4ebe-aaa0-a29cbb5c71d9",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "34409e80-029d-4214-bc85-c6b8e7b2a148",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "f37e300e-ee44-4eb7-b4b5-21f48ff47029",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b92067bd-297f-40a4-ae65-1d2837e52cc7",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b1719414-0193-49f3-9ab0-f32fbf37bf93",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "6da0b8d5-b92a-46aa-a330-8aabd8841560",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "82898cc0-e414-4cb6-a9bf-46dd88e7043e",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "686b3f9b-1677-41de-8b89-6084f97be8e4",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "99d02b2b-2f07-4434-b32a-13a0904450be",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "853f3120-6b54-4b97-9d46-dd43bdb6f2e8",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ae916594-ee71-4698-8154-600fe5b5b66d",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d124b3d6-3891-4392-8623-5dd711c7623e",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "cc63fc1e-1f3c-48ab-8acb-1a08baad6c70",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "784bb3d1-bc2a-48aa-a93c-55f25658fc6b",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "43d43c67-9812-40f3-bfd4-e5d484c5f461",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "2938d3e1-2dbe-4a99-9fd1-7cc0c22505a2",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8f474b2b-aead-4791-8f28-b9d082fe1e21",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "58b3c62e-280a-401c-bf62-d9f72294eec8",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "16907932-8c05-4a6c-9441-f004e5cf4119",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "6a589be8-90ff-42aa-8727-0fda29679f96",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c04b5b37-e60f-4582-b405-e830688a8097",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "af0b3056-648d-4436-97de-c9e0f1465419",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "274a2f59-a281-4807-8656-d8f3e08900bf",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "43f7120c-572b-4b8c-9364-1b55c6ae46f3",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "16a16896-1161-44fc-b245-ffd9d4e818fa",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "fe2f2ffb-b96f-4571-9e6c-d869e591e7ce",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "cb5fea83-0d2e-4f80-8557-f28ebf394a46",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "f2c328e2-b404-49f6-a9a6-5c6059d68b77",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ad801bb5-075e-4768-87e7-387a41955d26",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "0d885b25-3063-4275-b047-660aefe8ccb4",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e0cd71bb-ed4d-482d-a26e-a77b4f464d51",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "bb892f2b-1372-4ab0-9401-eabda8939115",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "f1b25fa6-b652-45fa-a104-15d412069f95",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "f6f6b251-bb70-4018-83cc-7a4c2f91dae9",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "29a9232a-5b2c-4c1c-8b28-6fcbfd871609",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "9ff06245-db49-41a6-994d-8599670d5e04",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "601596b5-32cd-4548-856a-291a99761a04",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8b3bc016-387d-455c-b68f-267d8f1a9e57",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "bfef385c-b9ee-4256-a007-d7da4faed2b9",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c359f05b-3f04-40d2-8f3d-8f019930c6ef",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "cdf63b10-8d6b-439f-8666-3a5d1bcc7aff",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ad3fc2d5-10af-4423-9072-c9a9579011b6",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "3e3ba2ae-5b3b-4cc4-a11b-8b3e96349d9a",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ef19762c-dde0-45e4-8415-0c29e72af45e",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "9deace5e-ca3b-487e-b0fb-68f685d199fa",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "34a7c180-2464-42c2-84fe-18e13cdbd992",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c4488af9-8809-40e6-8c38-fa7281cd4ffd",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "1c00ec93-9b08-488e-b5a2-da31f6aa81f5",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "3f2e8c94-ad18-4927-841f-12ae07634b89",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c0e66ad5-59d6-4f85-9e6c-4295f49abbcd",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "14b8a77f-498d-47d8-87f3-f699c7921eea",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c6bca753-9f14-4439-81d7-b40b12c0c363",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "53f4cee0-3314-44bb-82cf-ed7f7a9619f3",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "68726fb4-d3c5-4dec-85e6-d8a2a63434bf",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c3a1e7e9-013b-418e-8137-675c768b764e",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "71c0a7c3-8df6-4b99-a3c0-85a13725a573",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c1fda7f1-8217-49eb-af39-b775e64e06ee",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "24a79410-7e27-433a-bd2f-12d459547860",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "45c5ab84-0af6-4d4d-8026-3e6412624ba1",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "91358555-4718-4d10-88b4-7feb97a12a0a",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8f175d8a-d7e8-4428-b9b4-7c1a92983f99",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b70bc7b5-52b7-4fdd-bc6f-9f3ffc914710",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "43cd8dcc-3f67-4d74-8b15-bd001bed4feb",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c1224863-03fa-401b-887c-f289f4c734e9",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b1010107-35f6-4ee8-a431-ffa29abf2f6a",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8754cf07-1768-4d56-bfb8-f08370c39866",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8787133c-3fdf-4cf8-93ef-77693ad8d993",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d10d3585-5215-4248-8877-addb2dc10e5c",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "2a99d2e4-ba0a-4568-892a-bb967c0fe199",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "53876c40-cab3-41ed-9413-a328fd425356",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "826a9024-47fb-424e-a169-ea5f9c6d1efe",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e88abd59-cbb9-46f8-b57e-aa2d4aaed928",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "6597b0da-bdcd-43ad-996c-6145a922f27f",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "88e03182-b220-49ec-8c94-82add9ef41d1",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c9fbd7d4-892d-4863-ab2c-a5d28f31b786",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "859bd1f7-9c56-49f5-b637-5cd2066e7f39",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "be6836b8-9f17-4cd6-bd63-106c44a25adb",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d6b02ce5-91b2-47c0-b64e-74173b85d9f9",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "2657e34e-9e2e-4e1f-abca-29c65ab3e390",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "86f7d148-203a-42a4-9efc-0ba36e1a225d",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "774915f8-8c63-4101-9999-0bc5c48e524e",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "bc82279c-441e-42e8-90f0-0ccbba4a4249",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "0231ab8e-d897-4c4b-b39a-8f4eb4ab1899",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "29c83a5a-af66-44e4-97f7-40f9a17589d6",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "95490d8c-d331-4d81-b3f7-bb667513b551",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b7df8165-647c-4124-9fa7-d13cd2870478",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "31b377eb-084e-4301-87e2-944037885c9a",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "7be90e5f-0819-4559-a2dd-99daf9d8a38f",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "768f7dcf-9303-4394-8181-2d504ffe2e94",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "83463a5c-a06c-4f2e-b98e-39475e2ef457",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "a1ec09e1-ea3e-4097-aa17-218fe62ccdc6",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "869cc21a-6f9f-4760-beeb-1e6f4393abe3",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "dd466927-20bd-4a3b-ad17-bf0659362467",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "3273c3e0-2ec3-4c71-91a8-c5f7faa071c4",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "df7b9b41-545a-49c5-86f7-8d09bd16ea17",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c726c8f1-c627-423a-a493-241e8eb4f3ff",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "af5c1e21-8e61-4a6c-918a-831b8e351f3b",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "a1db17af-4006-4caa-9654-6f2d53fefe45",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "74f77ebf-b79d-49e3-908b-c8a9738c0694",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "fc609965-9695-4aee-9636-8543ba8d166c",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "856bda75-3558-4eae-a234-b24827b999d7",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "06041ca9-fe00-4454-b26d-9a10d1c5b071",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "126d6d65-99c6-44eb-9c50-ce1c756955f8",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "1095af52-6252-4f84-9ebb-bcea32108a40",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "5823a944-3b8a-4201-8c7d-2e3a9e60abd3",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "fb7d07aa-dfee-43b8-a1ab-594a336e4aa6",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "24b1cc5a-ceeb-46f6-98c7-422b1ca88f1c",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b8708b2b-ac9c-4899-96f7-6701cfafc295",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "38209afd-ee5d-4c5c-9707-960b2243a83a",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d59a1560-2e9f-45d6-aa97-782a1f2ac083",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b992fa59-1c51-41c7-add1-311e9e37a6f8",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "86e0bf25-a086-4d0a-92b8-43349d6472b7",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "39748ba8-af27-49d1-b9ea-5b9271637da0",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "169dfb60-9fc1-442f-af52-493b053ca0e1",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "fa8de09f-b0b1-447b-8599-96132cd88465",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "4dfa4489-bb79-4db7-8ed0-023d73f816d7",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "1bf3d80c-c8e7-45a8-ae11-a2dea30713b6",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "3fa4da07-c169-4a52-8167-6989bb15ad60",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "a4f706ed-9ffa-4794-a03c-013ec5cc3185",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "fe641342-b40c-420a-827a-8e5da5832d1d",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "20f503a0-c64e-46d7-8619-594bb32c59f1",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "fa27eea2-e947-429d-9ea9-50bbf57da2e9",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "7d511407-0225-43f3-a7b0-543d890fd61d",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8cc549ed-4581-4fed-a5f1-9c7023792bc3",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "26a532bf-4f90-48cb-b667-ff83a4f90006",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "87e8ee56-2881-43cd-9e1d-bd10180b6ed0",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "3662e394-44cb-4475-927a-81159521f7fb",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "1e422b1c-6ce4-4bcd-b48a-4c41337c2e25",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "11e90922-b8e5-4bdf-9694-23cbd7cc054b",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "7e0af041-edab-430b-964a-e62528cac894",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "4132a0ef-826e-4c8e-8530-eec14b026e03",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "1c3a6fe6-4296-483c-9240-4a520ab5ca13",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "902e533b-12bf-41d2-ab51-140ec107b320",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "76b15f43-2900-4098-9187-9c9281a18e4f",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "2d4667b0-6201-4996-b2c3-38f32eb126b2",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "279e0689-2930-47b1-a82a-dac9b5f2f0e9",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "94367122-c0f6-465a-931e-5d6f859b4249",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "702a2e00-4de6-4d87-9bbe-131bbe6f5ee9",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c20cb28a-90a2-45a4-a09a-15d2d39cf634",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8f02d0a3-38fc-48a9-8190-abca0f6524f6",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "673b015b-5de8-49d3-9514-8edeede38e4a",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "18e342a1-5807-4f6b-abd6-92158f620e56",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "aded3c95-7d25-4b72-b3c3-0fedc823cc4d",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "1cb9d07b-0fd3-40ac-9849-a21c48a17421",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "420d0b9c-af3a-4dd9-a68b-892180dfe62f",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "a0066ee4-2142-41a1-8632-5ec85109d5d5",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "f1dd6859-ae6d-4fee-bbc6-7004e2a5b868",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "a2dddc77-4df5-4d28-87c6-3c958e0b9015",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "3718a485-f919-44a2-8ac6-4f72e8342c06",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "cc4160ae-f3fb-4dfe-b89f-7a6c6ab5a9b1",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "39c88b5e-0708-4272-b28f-945d6935b222",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "26919363-37f0-4f32-8df9-5ce49250601b",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "4a50e484-543d-45d5-88a0-6f7285ed9674",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e5fa418d-e808-4c1b-abb6-be0e05585c64",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e97d4db4-aa7f-4c38-87e4-e6d96af36fef",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "2a2f5eac-015a-4e04-a0e7-9b928f88ebb8",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "df5e603c-402c-44aa-b03c-cf1216b284c9",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b8ed65d3-b4f9-496b-9e89-84a5efdcd7b0",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b30ad0db-7390-43b4-9be7-3abcd62ce6c0",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "2fadb7f8-ecab-45a3-9b12-91dff84e239d",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "7320064e-d05f-447f-8671-abb1d60a15e7",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ad45e9b1-3fd1-40a9-982a-af87d27bda67",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "788b6a0b-6d58-4992-aa94-5de662ac2b02",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c17622b7-51b5-4181-b5a9-70b172c3b276",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e5d54b24-8278-4e22-918e-5477d46a74aa",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "adc69519-ceab-4d80-9d6d-7c0fc8e0dd1e",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "6e471fdb-6822-400d-9541-15a8dba61bee",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "154398b0-1103-4545-b972-40de4056e7a2",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "09304422-cdf0-4c4a-953a-f549644e7288",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "f4f8e41b-2fb5-44e0-ad8b-ad1ceb472340",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c81e1d30-cf7e-4e9c-bb67-3e44983c1833",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "4dd321c0-7fb4-4a81-9556-30923525ccdd",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "17f4d067-f6bd-42ed-aaad-5b5793f99130",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e24be2c5-2280-416a-87da-bb3ae7f64ae4",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "9aa86cc6-a17d-4caa-b2c9-c46f4e6cb79d",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ee449a7b-ce3b-429a-9e94-26ceee8a190b",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "a932b061-533c-4ec0-b0d1-7a2466d87eb3",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "a3086ff7-3803-49e7-8916-5feb165006ba",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d473c932-1865-4ecd-9356-cece7ce47063",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "cdabc19c-0fb9-48b2-b0b8-79f75a4f0eea",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "de22f90f-30b7-4d94-b8d5-0431127c33ab",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "66fe99e7-04ae-4762-b098-dea3909afb49",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "4826fbb1-37fc-4973-b83a-0f490aa6eb72",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "4ab3bd8e-635a-4638-a689-493a348fbb8c",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "be2b3cd3-e667-4c03-8d4d-59be3c8b2996",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8d915115-6f84-441c-836a-b54311080c01",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "39c44c33-f9b8-41ea-83cc-b52652df31a7",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "6f6c3777-7f56-4eeb-9f3d-10b2fe872dfb",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "dd5a21b6-77e4-4ee2-b341-6ddb84d36b6a",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "91d26ee1-3fa6-45c2-bdce-af0a0c30cc41",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "94f0069c-e170-4241-a420-eb16c9e8c5df",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "89b80f2a-fef4-4b36-81e7-ac2455fc66a9",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "1e16d90f-836a-496f-a765-5c690a7fc38a",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8d236f98-2c7e-459f-8a64-555c5d8fb07f",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "0f1ad20c-46f6-49e2-8eb0-a8deb7d3fd1d",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "852a1d42-8241-4602-9b2b-f6e08220ffe1",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "54323c73-a4a6-4471-aa5d-7eb81afda51c",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b8f2a712-5d4c-46ca-a7d9-3201ed1f3da0",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "28fb5b36-677e-4fd4-9af8-4a1cee886c01",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "72475611-69c8-44fe-91aa-0bd3cebaf2c5",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "7a42326c-1133-4128-908a-01dc4d36bbfd",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e2e3aa08-b053-4712-a1e4-331409726162",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "84024d2e-e9f1-4cc1-ae10-b29dc9387623",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "4b760079-d39c-4781-9db0-ab6e0f21501e",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "14cc24d6-ed56-4b70-b4a6-b2760099c850",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "96b34b8f-3e02-4092-a45c-1ba14e7759eb",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "a2f9a031-5fac-4932-8aad-f35f76ef6990",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "0e4cc2b5-d75f-40e7-b841-a888dc78ca41",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "2aae675d-2389-4c6b-afb6-15f6d68dffb6",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "6421928a-c3a6-41f0-899f-566e970e3c01",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "dd2b64a4-77a4-4d6b-bcd0-0231f084e00e",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "352368e2-9d22-4a80-bec8-69b57afd6aba",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "01ec23a5-e924-4c2e-b900-5747b36e89be",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "39eba6e1-c93e-4cb1-9331-123d7a39a81c",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "1bca1950-a9c9-4a33-91b1-6aea07e6d6a9",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "37e5e0d6-1b2c-4463-aac6-6231abfda86d",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "715a636d-b9f5-4ccd-adef-d72ec1f5ddd0",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e9188571-f460-4d01-936f-0d46d01720e7",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "66034969-252b-4f46-929d-ac2805abf913",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ab89e336-e6c5-4514-b5d0-848e2eb337db",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c0a2f8a8-1c8a-4aab-8582-765cb8868861",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "07397397-8b3e-47f0-85a1-1c713b0d428c",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ca05ff97-6c94-42fc-9e86-f7de727870d7",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "4170cdbb-bcf4-4062-b748-18bc01736dbc",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "abc6e1a5-ef2a-4abd-ad27-7f0de11c3f20",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c996cf91-ef8f-41ce-b7cf-6ddd5599c48a",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "cfd42c36-94ee-43ba-9b91-a8bafc1d3809",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ab671403-8e96-4892-817d-01e01893bb24",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "339df44c-2c24-4d1f-b3ee-367d829c572c",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d61d4d23-a8ab-4e2c-93dd-c33da40cca23",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "0b637e51-7650-44b7-8872-f450668d39ba",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "21db574d-4c5f-4f6c-bcb3-5bbf14d8924b",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "70df9ce0-a9e0-46ac-9de1-2861de9830dc",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "42c769e0-f270-4bfc-b427-028bde32ba70",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d8869f6d-cf51-4c44-85e5-2783d3e59e25",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "f2f75da5-8278-4fe8-a1d7-013e7d6e1b88",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "af51c9e6-dadf-422c-b0bc-f65af542bdea",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b19f1c92-2535-4208-a132-7596e89f86d3",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "10ad1938-997c-4c15-84c4-79f873d69df6",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8465f283-3597-42c3-9a5e-4c9715a3e132",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "44385288-b85b-4f45-9bdd-dcfdcac713c9",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "9a3a9d82-d669-4af4-afa9-0da69e4bae1a",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d3f00129-e6cc-44e7-83c7-3353f5f31e83",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d082761d-f4a7-40d0-9fbe-8c60793a3544",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "de5703ab-ff85-45e7-be6f-6992ab015209",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c223e5eb-2d44-441f-a095-53ac273b85dc",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "09eab3f2-009c-4f5f-9623-52b56ffbd941",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "5e166aac-f289-4f85-832a-8b2b3ffbe6d2",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "7d7743f2-dfa9-4685-b0a0-c35781124f64",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b161e006-17ed-4cc9-b9c5-7035b09e5d9d",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e8aabc3b-c9ae-43fb-9172-523959e1d963",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "9f87a080-3e07-46e7-ad82-116810963ab8",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "bdb7c3fd-e7e0-4f20-9bfd-92296c49d389",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "9d5fce62-08e0-4b66-b538-e39ff9b60dcb",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b5507039-2605-4c0f-9cd1-9b65c021883f",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e6df5623-3383-4537-832f-ce77d7b7863f",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "793613c0-004f-428f-8f49-988ad7d169a2",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ae0b60ae-81bb-4df2-8d8d-daff7cf172d5",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "da2476f5-f467-4b8c-aa61-53dc964670bc",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b8595dbb-8bd4-4d63-9ee4-ab91e63cc585",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "71f08046-88f2-4aff-973e-9b7f6597d46b",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "3dd43f15-b744-4a20-98c3-28438fe1d1c5",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "600e2e7e-1892-41f6-bc52-9c19ee3ce201",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "a50bf755-ef03-4d6f-97f1-d7b774e1eb91",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "71b3e3f9-f3c2-4aaf-8fcd-6c3d7a363cb2",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "5acbeab7-df30-43ed-a7c7-8e7c53cbaeb5",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "9a2bfe65-60e1-4055-9c7d-ed877387868f",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "98695aa0-80dd-4c41-8a64-b65d1e052b82",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "25b44974-5b43-451f-95db-643c73d90915",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "0b2523af-504d-4c6d-967d-be04ea1691d2",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "11f9aab9-6223-4a95-9659-3a73aa25cfc8",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "606fbb38-a4b9-4941-baae-96deb76cc4eb",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b2be19f8-980a-4860-ba85-fcaca7846964",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "f5d503b7-8041-42f0-9fc1-0bb19374b402",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "7d440bd3-be63-48c8-be66-824484a2c64d",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "f3912f6c-1063-4fc4-8dd8-9e1ea7a25bc4",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "7ecbddef-45a0-4aff-8311-75a82a4f8b15",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "935b79eb-1a82-4bf1-93df-0fad71f74ffe",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "2158daa2-774f-43df-87ab-bf10bdeec1b7",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b5b5e113-ec78-4256-96a0-01e3e4d16d57",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "6dabcdf8-f12c-4d83-a9cc-6e6ef4ee10ed",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "4f86ce75-ccc3-4d6a-9e24-e42adba84df2",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d9132c84-d3a1-401b-b80c-52ac996a0993",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c0bdefeb-71e1-4053-b216-7d16b182c99f",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "2808ea04-18c7-4c06-aca9-c6b38c09857a",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e99d6f3a-0d70-43f1-89bc-33bf36f5a52b",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "6d13791f-8505-42a5-8b0d-1a8a47aebdfa",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d103b850-2362-4b3b-8478-3b55fecbb0b5",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8e828f9f-f022-4938-803c-be86b3570605",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "3ac5a4ca-4d63-45b2-a3e7-7f2fe39d62d4",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "a2f45414-41c2-461d-9b7d-84d6902c902d",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ca6e0d9e-e3f0-4c71-a190-cd1ddfa1f8ad",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "342fd7e6-0c79-4947-aab2-fa35e34c2fcf",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "daaa1785-5d18-428f-be75-12c4c36f9127",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "0337a3c9-ca22-4537-a1e1-ec5b9873097f",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "cf902492-97a4-4666-84ae-502e3494fccd",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "472daa37-baa2-4ec3-97e2-f9c0669d5fed",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e3771427-2a6e-4bac-9f84-c75c1487ccb7",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ac20d4b4-df8b-4bf0-beb6-b52f5a70a0cc",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "a69da707-8705-40c3-a10b-720bb8d017cd",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "bbab8b24-630d-4b90-87e4-0223e9d2e3a6",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "7817e3ee-13f7-4638-8681-1fe81123086c",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "57a31823-ba29-4970-bf61-ad25ca3e625a",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "700766c5-c364-4f3b-8329-78306e200c81",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c867e2fa-bc12-4b43-9416-9443d0983c99",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d46a4c4e-24d0-4e24-a16c-2ec5ecfa29c8",
+    "text": "## Visual Indicators\n\nThese are things you can check at home without any equipment.\n\n<table>\n<thead><tr><th>What to Check</th><th>Authentic Honey</th><th>Red Flag</th></tr></thead>\n<tbody>\n<tr><td>Color</td><td>Light amber to golden yellow; consistent throughout the jar</td><td>Unusually pale or watery appearance; two distinct layers separating in the jar</td></tr>\n<tr><td>Viscosity</td><td>Flows slowly and steadily; forms a ribbon when poured rather than splashing</td><td>Drips quickly like water or thin syrup — a strong sign of dilution</td></tr>\n<tr><td>Bubbles and foam</td><td>A thin natural foam on the surface is acceptable in fresh raw honey</td><td>Excessive or persistent bubbling throughout the jar may indicate fermentation caused by high moisture, or active adulteration</td></tr>\n<tr><td>Crystallisation</td><td>Gradual, uniform granulation over weeks or months at room temperature</td><td>Honey that never crystallises after many months of storage — likely heat-treated, heavily filtered, or blended with glucose syrup</td></tr>\n<tr><td>Clarity</td><td>Slightly hazy or opaque is normal for raw unfiltered honey; some natural particles are fine</td><td>Unnaturally clear and perfectly transparent honey has almost certainly been heated and fine-filtered</td></tr>\n</tbody>\n</table>\n\n**Simple home test — the spoon drop:** Place a small drop of honey on a dry ceramic plate. Authentic honey holds its shape as a neat mound. Adulterated or diluted honey spreads outward and absorbs into the surface quickly.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "9d7ac6b7-82d3-483f-856e-cced3f15ac97",
+    "text": "## Taste &amp; Aroma Indicators\n\nKholisha honey has a distinctive but gentle character. Once you know it, it is recognisable.\n\n**Aroma:** Delicate and faintly floral-woody, carrying the subtle scent of the mangrove bloom. It should not smell sharp, heavily sweet, or artificial. A caramel or burnt sugar smell is a sign the honey has been heated.\n\n**Taste:** Mildly sweet with a clean floral finish. It is not aggressively sweet like sugar syrup, and it should not leave a sharp or artificial aftertaste. A very faint warmth in the throat after swallowing is normal for raw honey.\n\n**Texture on the tongue:** Smooth and slightly coating. Watery or thin mouthfeel suggests dilution.\n\n**What should concern you:**\n- A taste that is intensely sweet with no floral complexity — likely sugar syrup or glucose blend\n- A sour or fermented taste — indicates high moisture content or improper storage\n- An oddly neutral flavour with no character — may be heavily processed or mixed-source honey repackaged as Kholisha\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8723ab10-0db5-47fa-bf71-467a4e6bd41f",
+    "text": "## Lab &amp; Certification Checks\n\nFor families who want to go beyond visual and sensory checks, here is what laboratory verification actually looks like.\n\n**What to know about certification first:** As of 2026, no active GI (Geographical Indication) certification exists for Sundarbans honey in Bangladesh. This means any seller can legally label their product \"Sundarbans honey\" regardless of actual origin. BSTI certification on packaging confirms a basic food safety standard but does not verify where the honey came from or which flowers the bees visited.\n\n**Useful lab tests if you want independent verification:**\n\n- **Pollen analysis (melissopalynology):** A specialised lab examines pollen present in the honey under a microscope. Genuine Kholisha honey will show *Aegiceras corniculatum* pollen. This is the most reliable method to confirm floral origin.\n- **Moisture content test:** Raw honey should measure between 18–22% moisture. Higher than 20% increases fermentation risk; significantly higher suggests dilution or premature harvesting.\n- **Sugar profile test (HPLC):** Detects added sucrose, high-fructose corn syrup, rice syrup, or other adulterants that alter the natural fructose-to-glucose ratio of pure honey.\n- **HMF (Hydroxymethylfurfural) level:** Elevated HMF indicates the honey has been exposed to excessive heat. Low HMF confirms it has not been significantly heated.\n\nWe at Hasanah Mart source from suppliers we trust, but we encourage informed buyers. If you ever want to independently test a batch you purchase from us, we support that completely.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "df58f199-881a-4789-b8a5-ff1a70d2c274",
+    "text": "## Common Fakes to Watch For\n\nThe Bangladeshi honey market has several well-documented adulteration patterns. Knowing them protects your family.\n\n**Sugar syrup blending** is the most widespread issue. Cheap sugar syrup — sometimes glucose solution, sometimes rice syrup — is mixed into real honey to increase volume. At low ratios it is nearly impossible to detect by taste alone. The spoon test and crystallisation behaviour are your best home indicators.\n\n**Heated honey sold as raw** is common in the mid-market. Sellers heat honey to make it look clearer, flow better, and resist crystallisation — which makes it easier to package and sell. The product looks premium but has lost much of what makes raw honey distinct. It will never crystallise naturally.\n\n**Generic honey relabelled as Kholisha** is a straightforward repackaging fraud. Farmed multi-floral honey, or honey of unknown origin, is put into jars with Sundarbans branding. Without pollen testing there is no way to detect this visually. Your protection here is buying from sellers who can tell you something specific about their source — not just a label.\n\n**Repackaged imported bulk honey** is less common but exists in the market. Large quantities of honey imported from abroad are locally rebottled and sold as domestic product. Look for Bangla harvest dates, seller contact details, and any sourcing reference on the packaging.\n\n**Our commitment to you:** At Hasanah Mart, we do not sell honey we cannot trace. If something about a batch concerns us, we do not list it. If something concerns you about an order you receive, contact us and we will investigate — that is a promise we stand behind.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "9fed34dc-7fd6-4213-acce-46052d8e7f5f",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "76e68966-090d-466c-acad-0b8a357bea14",
+    "text": "# Sundarbans Kholisha Flower Honey — Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d172331a-2f35-4321-8492-84cd871b9e74",
+    "text": "## Health benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "bb396995-e603-447e-97ad-ab1937893750",
+    "text": "### Natural sweetening option\n\nKholisha flower honey can be used as a natural sweetener in tea, milk, desserts, and homemade drinks instead of refined sugar.",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "543db228-6586-4eb3-8bf2-b25576081973",
+    "text": "### Provides quick food energy\n\nHoney naturally contains carbohydrates and sugars that can provide quick everyday energy when consumed as part of regular meals.",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "7d5b289f-0d4b-4dfb-b75b-b1faf2e67465",
+    "text": "### Naturally sourced floral honey\n\nCollected from flower nectar in the Sundarbans region, this honey is valued for its natural origin and traditional use in Bangladeshi households.",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c517a0f9-e035-4274-b59a-74fcc776b677",
+    "text": "### Comforting in warm drinks\n\nMany families enjoy honey mixed with warm water, tea, or lemon drinks during seasonal weather changes.",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e1710400-f421-46cb-a28c-ca4cd210ab7d",
+    "text": "### Easy to include in daily meals\n\nCan be enjoyed in moderate amounts with breakfast foods, snacks, and homemade recipes.\n\n---",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "fc7d64eb-cd50-4ea1-9a7a-89e9c12db4ff",
+    "text": "## Practical benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "9117b2ea-b5d2-40e2-b568-0ae83a3c43d5",
+    "text": "### Versatile for kitchen use\n\nSuitable for tea, toast, paratha, pancakes, yogurt, smoothies, desserts, and traditional homemade foods.",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "2c5cf887-636e-4d7c-a035-036605ab3a55",
+    "text": "### Multiple pack sizes available\n\nAvailable in practical family-friendly sizes for different household needs.\n\n| Variant | Weight | Common use |\n|---|---|---|\n| 250g | 250 grams | Trial or occasional use |\n| 500g | 500 grams | Regular family use |\n| 1kg | 1000 grams | Frequent household use |",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8be6bb74-1117-4c6e-88f1-7cbfc2caba42",
+    "text": "### Easy to store\n\nHoney can be stored at normal room temperature in a dry place with the lid tightly closed.",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "092ff830-57d3-4ea2-b7da-e3c14dbf6639",
+    "text": "### Convenient online ordering\n\nFamilies can order from Hasanah Mart and receive fresh grocery items at home with reliable delivery service.",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b3363084-fd4d-4cc5-b4a7-9b037d274f47",
+    "text": "### Locally sourced product\n\nSourced from the Sundarbans region of Bangladesh, helping customers choose familiar local grocery products with confidence.\n\n---",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "375a4925-09bf-48a8-a65e-ddf352798056",
+    "text": "## Lifestyle fit",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "687cf4a5-e8fe-4200-9968-e7cb57aa1cd8",
+    "text": "### Suitable for family kitchens\n\nWorks well as an everyday pantry item for both children and adults.",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "fd9b3c32-6dcf-4f76-8b33-3e080c7e8e17",
+    "text": "### Fits traditional and modern recipes\n\nCan be used with local foods like ruti, pitha, and paratha, as well as oats, cereal, and bakery items.",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e1edcd81-d16d-4cd5-a2fa-30468b41df14",
+    "text": "### Useful throughout the year\n\nSuitable for daily use in both warm and cold drinks across different seasons.",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "aa03feb3-f267-4499-9486-ec1292b07fa7",
+    "text": "### Simple ingredient choice\n\nPreferred by many households looking for straightforward, naturally sourced food products.",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "dc0989f2-855e-400d-ac86-bdfaec87fac6",
+    "text": "### Good for sharing and gifting\n\nAvailable in sizes suitable for personal use, family sharing, or sending to relatives and guests.",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c6a6c0da-fecd-4aed-be12-8b53a5bfd9d3",
+    "text": "## Comparison Table\n\nThe three most relevant alternatives a Bangladeshi family is likely to consider alongside Kholisha honey are: locally farmed multi-floral honey (the most common type sold in shops and online), other Sundarbans honey varieties (such as Keora or Goran), and imported premium honey (such as Manuka from New Zealand or Sidr from Yemen).\n\n<table>\n<thead>\n<tr>\n<th>Dimension</th>\n<th>Kholisha Flower Honey<br/>(Hasanah Mart)</th>\n<th>Local Farmed Honey<br/>(commercial brands)</th>\n<th>Other Sundarbans Varieties<br/>(Keora, Goran, Bain)</th>\n<th>Imported Premium Honey<br/>(Manuka, Sidr)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Origin</strong></td>\n<td>Wild — Sundarbans mangrove forest, Bangladesh</td>\n<td>Farmed — managed bee colonies, typically open agricultural land</td>\n<td>Wild — same Sundarbans forest, different floral source</td>\n<td>Wild or farmed — New Zealand, Yemen, or other foreign origin</td>\n</tr>\n<tr>\n<td><strong>Floral source</strong></td>\n<td>Single source — Kholisha bloom only</td>\n<td>Mixed — whatever is available near farm; varies by batch</td>\n<td>Single or mixed — depends on seller and season</td>\n<td>Single source — Manuka tree or Sidr tree respectively</td>\n</tr>\n<tr>\n<td><strong>Processing</strong></td>\n<td>Raw — cloth-strained, unheated</td>\n<td>Usually pasteurised and fine-filtered</td>\n<td>Varies — raw to partially processed depending on seller</td>\n<td>Varies — many imported honeys are minimally processed; some are pasteurised</td>\n</tr>\n<tr>\n<td><strong>Taste profile</strong></td>\n<td>Mild, clean, gently floral — not overpowering</td>\n<td>Generic sweet; little distinctive character; varies widely</td>\n<td>Stronger, earthier notes; Keora in particular has a more robust flavour</td>\n<td>Distinctly strong — Manuka is bold and slightly medicinal; Sidr is rich and intensely sweet</td>\n</tr>\n<tr>\n<td><strong>Adulteration risk</strong></td>\n<td>Moderate in the broader market; lower when sourced carefully as we do</td>\n<td>High — widespread sugar syrup blending in commercial brands</td>\n<td>Moderate to high — same market problems as Kholisha; depends heavily on seller</td>\n<td>Lower for certified products; risk exists in uncertified imports</td>\n</tr>\n<tr>\n<td><strong>Certification</strong></td>\n<td>No GI certification; BSTI available with some suppliers</td>\n<td>BSTI certification common; does not verify origin</td>\n<td>No GI certification; same situation as Kholisha</td>\n<td>MGO/UMF rating for Manuka; internationally recognised and lab-verified</td>\n</tr>\n<tr>\n<td><strong>Price range (BDT/kg)</strong></td>\n<td>৳1,100 per kg jar (Hasanah Mart)</td>\n<td>৳300 – ৳600</td>\n<td>৳800 – ৳1,500 depending on seller and traceability</td>\n<td>৳2,000 – ৳5,000+ depending on grade and import route</td>\n</tr>\n<tr>\n<td><strong>Shelf life</strong></td>\n<td>2+ years stored correctly; crystallises naturally</td>\n<td>Often longer due to pasteurisation; may not crystallise</td>\n<td>Similar to Kholisha if raw; longer if processed</td>\n<td>Long shelf life; certified grades have expiry dating</td>\n</tr>\n<tr>\n<td><strong>Local availability</strong></td>\n<td>Available year-round via Hasanah Mart, delivered to your door</td>\n<td>Widely available in shops and online</td>\n<td>Available but harder to find from reliable sellers</td>\n<td>Available through import retailers and some online stores</td>\n</tr>\n</tbody>\n</table>\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "5ae75007-ad54-44fe-b7ab-8621d96b36fe",
+    "text": "## When to Choose Kholisha Honey\n\nKholisha honey from Hasanah Mart is a good fit for your family if:\n\n**You want to know where your food comes from.** This honey has a clear, specific origin — a named forest, a documented harvesting tradition, a traceable supply chain. That is not something most honey on the market can offer.\n\n**You prefer food that is minimally processed.** Raw, unheated, cloth-strained — it reaches you as close to its natural state as practical. If your family avoids heavily processed foods, this is consistent with that.\n\n**You want a mild, everyday honey.** Kholisha has a gentle flavour that works well for daily use — in tea, with food, or on its own. It is not sharp or overpowering, which makes it easy for the whole family including children over 1 year old.\n\n**You want genuine Bangladeshi origin without paying an import premium.** You get wild-harvested, single-source, raw honey — the same qualities that make imported premium honey expensive — at a fraction of the price, and produced right here at home.\n\n**You shop with Hasanah Mart for convenience.** We deliver it fresh to your door. No hunting around for a trustworthy seller, no uncertainty about what you are getting.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "fbec33ee-a007-4c2c-a654-ae306c37427a",
+    "text": "## When Another Option May Be Better\n\nWe would rather be honest with you than oversell.\n\n**Choose local farmed honey if budget is the primary concern.** If your family needs honey purely as a sweetener and price is the deciding factor, farmed honey at ৳300–৳600/kg does the job. Just buy from a brand with BSTI certification and be aware that adulteration is common at the lower end of the market.\n\n**Choose Keora or Goran honey if you prefer a stronger, bolder flavour.** Some families — particularly those who use honey in cooking or prefer a more intense taste — find Kholisha too mild. Keora honey from the Sundarbans has a more robust, distinctive character. The sourcing challenges are similar, so apply the same scrutiny when buying.\n\n**Choose certified Manuka or Sidr honey if you need internationally verified quality for a specific purpose.** These honeys carry internationally recognised grading systems (MGO/UMF for Manuka) that are independently lab-tested and legally protected. If you are looking for a honey with a certified and verified potency level — for example, for someone in your family with a specific health-related reason advised by a doctor — certified imported honey offers verification that domestic honey currently cannot match. The cost is significantly higher, and you will need to import or buy through a verified retailer.\n\n**A straightforward summary:**\n\n| Your Priority | Better Choice |\n|---|---|\n| Lowest price | Local farmed honey (BSTI certified) |\n| Bold, strong flavour | Keora or Goran Sundarbans honey |\n| International lab certification | Certified Manuka or Sidr |\n| Raw, traceable, local, everyday use | Kholisha honey from Hasanah Mart |\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "4252b435-11e7-4af7-825a-8ab2b7631667",
+    "text": "## Frequently Asked Questions\n\n---",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "317fb794-acdb-4874-b6d3-5b5dd8923fc5",
+    "text": "### Authenticity &amp; Sourcing\n\n**Q1. How do I know this honey is genuinely from the Sundarbans?**\n\nAuthentic Sundarbans honey is collected by licensed Mouwali communities who enter the forest under seasonal permits from the Bangladesh Forest Department. At Hasanah Mart, we source from suppliers who can trace their honey back to specific collector groups in the Sundarbans region. If you ever have questions about the source of a particular batch, you are welcome to ask us directly — we will tell you what we know honestly, not just what sounds good.\n\n---\n\n**Q2. Is Kholisha honey the same as general Sundarbans honey?**\n\nNot exactly. \"Sundarbans honey\" is a broad term that can include honey from several different flowering plants in the forest — Keora, Goran, Bain, and others. Kholisha honey specifically refers to honey collected when the Kholisha plant (*Aegiceras corniculatum*) is in bloom, between February and April. It has a milder, more delicate flavour than some other Sundarbans varieties. Some sellers use the two terms interchangeably, which is not accurate.\n\n---\n\n**Q3. Is this honey raw?**\n\nYes. The honey we sell is strained through cloth to remove wax and debris, but it is not heated or pasteurised. This means it retains naturally occurring enzymes and pollen that are destroyed when honey is heat-treated. Because it is raw, it will crystallise naturally over time — that is completely normal and is actually a good sign.\n\n---\n\n**Q4. Does this honey have any certification?**\n\nAs of 2026, there is no active GI (Geographical Indication) certification for Sundarbans honey in Bangladesh. BSTI certification confirms a basic quality standard but does not verify geographic origin or floral source. We are transparent about this. What we offer instead is traceable sourcing and honest product information — which is more useful to your family than a label alone.\n\n---\n\n**Q5. Why is the price higher than honey at my local shop?**\n\nCollecting authentic Sundarbans honey involves real costs: Forest Department permits, dangerous manual collection deep inside a protected mangrove forest, limited seasonal yield, and transport from a remote area. Cheap honey at local shops is almost always farmed, heat-treated, or mixed with sugar syrup. Our honey costs more because it is the real thing — and we price it as fairly as we can within that reality.\n\n**Our current prices:** 250g for ৳320 · 500g for ৳600 · 1kg for ৳1,100.\n\n---",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b32de54f-7ca5-4e5b-b899-81f19462d65d",
+    "text": "### Storage &amp; Shelf Life\n\n**Q6. How should I store this honey at home?**\n\nKeep it in a tightly sealed glass or food-grade plastic container, in a cool dry place away from direct sunlight. A kitchen shelf or cupboard works well. Do not refrigerate — cold temperatures speed up crystallisation and can introduce moisture if you open and close the jar frequently, which raises the risk of fermentation over time.\n\n---\n\n**Q7. My honey has turned solid and grainy. Is it spoiled?**\n\nNo, it has crystallised — which is completely natural for raw honey. It is not spoiled and is perfectly safe to eat. Crystallisation happens because the glucose in honey solidifies over time, especially in cooler weather. Kholisha honey tends to crystallise more slowly than many other varieties due to its natural sugar composition, but it will happen eventually.\n\nTo return it to liquid form, place the sealed jar in a bowl of warm water (not boiling — keep the temperature under 40°C) for 15–20 minutes. Do not use a microwave.\n\n---\n\n**Q8. How long will this honey last?**\n\nRaw honey stored properly has an exceptionally long shelf life. For best flavour and quality, we recommend consuming within 2 years of harvest. The key factor is moisture — honey with a moisture content above 20% can ferment. If your honey ever smells sour, fizzy, or alcoholic, do not consume it. Otherwise, stored correctly, it keeps very well.\n\n---\n\n**Q9. Can I store honey in a metal container?**\n\nAvoid reactive metals like iron or copper, as honey's mild natural acidity can cause leaching over time. Stainless steel is acceptable for short-term storage. Glass is the best option for both storing and buying honey, which is why we recommend keeping it in the jar it arrives in.\n\n---",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8e5c29fa-be68-42b9-a315-620afd8fc1df",
+    "text": "### Health &amp; Usage\n\n**Q10. What are the health benefits of this honey?**\n\nRaw honey naturally contains enzymes, trace minerals, pollen, and compounds with mild antimicrobial properties. These are present in Kholisha honey as they are in other quality raw honeys.\n\nWe will be straightforward with you: honey is a food, not a medicine. We will not make specific health claims we cannot verify. What we can honestly say is that your family is getting a clean, natural, minimally processed food — with no added sugar, no preservatives, and no artificial ingredients.\n\n---\n\n**Q11. Can someone with diabetes eat this honey?**\n\nHoney raises blood glucose. While raw honey has a slightly lower glycaemic index than refined sugar, it is still predominantly sugar and is not safe to consume freely if you or a family member has diabetes or prediabetes. Please consult your doctor before adding honey to the diet of anyone managing blood sugar levels. Do not substitute honey for medical treatment.\n\n---\n\n**Q12. Is this honey safe for babies and young children?**\n\nHoney is **not safe for children under 12 months of age** — this applies to all honey, regardless of type or origin. Raw honey can contain *Clostridium botulinum* spores, which are harmless to older children and adults but can cause a serious illness called infant botulism in babies whose digestive systems are not yet mature. This is a firm medical guideline. Please do not give honey to infants under 1 year old.\n\nFor children over 1 year and adults, honey is safe to consume in normal food quantities.\n\n---\n\n**Q13. Can I use this honey in cooking or add it to hot tea?**\n\nYes, you can. However, heating raw honey above approximately 40°C breaks down its naturally occurring enzymes. If you are choosing raw honey specifically for its unprocessed quality, the best approach is to add it to your tea or food after it has cooled to warm — not while it is still boiling hot. For baking or cooking at high temperatures, the difference between raw and processed honey becomes much less significant.\n\n---",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "05929371-4fa2-4f5b-b5d6-1137fd2f3f89",
+    "text": "### Ordering &amp; Delivery\n\n**Q14. How will the honey be packaged for delivery?**\n\nWe pack our honey securely to prevent leakage during transit. Glass jars are wrapped and cushioned before dispatch. If your order arrives with a broken seal, visible leakage, or any damage, please contact us immediately — we will make it right.\n\n---\n\n**Q15. Is it safe to order honey online if I cannot check it in person?**\n\nIt is a fair concern, and we take it seriously. At Hasanah Mart, we only list products we are confident in sourcing. For honey specifically, we work with suppliers who can provide batch-level information on request. Our return and replacement policy means that if a product does not meet your expectations when it arrives, you have recourse — you are not just trusting a label. We encourage first-time buyers to start with the 250g jar to try it before committing to a larger size.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8409614e-8972-4bf2-ae25-dd9202a1e991",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "a5835c07-c6b3-48b6-9ee3-8381cd7f65f6",
+    "text": "# Sundarbans Kholisha Flower Honey — Nutritional Information\n\nAt Hasanah Mart, we believe in bringing the pure, natural bounty of Bangladesh straight to your family's table. Sourced directly from the mangrove forests of the Sundarbans, our Kholisha Flower Honey is a wholesome, energy-boosting addition to your household's daily diet. \n\nBelow is the factual nutritional breakdown to help you make informed choices for your family's health.\n\n---",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8375b1d8-d3c4-4402-ac9c-0c487dc34766",
+    "text": "## Nutritional Profile (per 100g)\n\nThe following table outlines the typical nutritional values found in 100g of pure Sundarbans Kholisha Flower Honey. \n\n| Nutrient | Amount per 100g |\n| :--- | :--- |\n| **Energy** | 304 kcal |\n| **Carbohydrates** | 82.4 g |\n| — Fructose | 38.2 g |\n| — Glucose | 31.3 g |\n| — Maltose & Other Sugars | 12.9 g |\n| **Dietary Fiber** | 0 g |\n| **Protein** | 0.3 g |\n| **Fat** | 0 g |\n| **Water / Moisture** | 17% – 20% |\n\n> **Note on Batch Variation:** Because this honey is 100% natural and sustainably harvested from wild beehives, slight variations in color, taste, and exact moisture content can occur between seasonal batches. This is a natural characteristic of raw, unprocessed honey.\n\n---",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "6c3686c4-3901-4249-8682-6f68db13849d",
+    "text": "## Key Nutrients\n\nSundarbans Kholisha Flower Honey is more than just a natural sweetener. It contains a variety of trace elements that offer wholesome goodness for the entire family:\n\n* **Antioxidants & Flavonoids:** Rich in organic acids and phenolic compounds which naturally support overall well-being.\n* **Trace Minerals:** Contains small amounts of essential minerals including potassium, calcium, magnesium, iron, and zinc.\n* **Natural Enzymes:** Active enzymes like diastase and invertase are preserved in this raw honey, aiding in easy digestion.\n* **Glycemic Index (GI):** Features a moderate Glycemic Index (typically between 55–60), which means it raises blood sugar more gradually than standard refined white sugar.\n\n---",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "65b193d2-e046-44fb-86f1-5316a2da2b60",
+    "text": "## Comparison to Similar Products\n\nChoosing the right sweetener for your children and loved ones matters. Here is how our raw Kholisha Flower Honey compares to regular supermarket options:\n\n| Feature | Hasanah Mart Kholisha Honey | Processed Commercial Honey | Refined White Sugar |\n| :--- | :--- | :--- | :--- |\n| **Processing** | Raw, minimally filtered | Heavily heated and ultra-filtered | Highly processed and chemical-refined |\n| **Nutrient Value** | Retains natural vitamins, minerals, and pollen | Most micro-nutrients destroyed by heat | Zero nutrients (\"empty calories\") |\n| **Flavor Profile** | Distinct, light floral aroma native to the Sundarbans | Standardized, generic sweet taste | Strictly sweet, no distinct flavor |\n| **Preservatives** | 100% pure, no additives | Often contains added corn syrup or sugar water | Pure chemical compound |\n\n---",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "bee0adeb-cdac-48e0-8b67-0afcba4ffa3f",
+    "text": "### Important Family Safety Note\n\n* **Infant Safety:** Raw honey should never be fed to infants under 12 months of age, as their digestive systems are not yet mature enough to process raw honey safely.",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "afe8576a-34b6-492e-931a-ca30e70df8cd",
+    "text": "## Overview\n\nSundarbans Kholisha Flower Honey is a wild, single-source honey collected from the Kholisha plant (*Aegiceras corniculatum*) — a mangrove shrub that grows along the tidal creeks of the Sundarbans, the world's largest mangrove forest, right here in Bangladesh. It is not farmed. Bees forage freely across the mangrove ecosystem, and the honey they produce reflects exactly where it comes from.\n\nAt Hasanah Mart, we source this honey carefully so your family gets the real thing — traceable, raw, and delivered fresh to your door in Narayanganj and beyond.\n\n**Available sizes:** 250g (৳320) · 500g (৳600) · 1kg (৳1,100)\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e96aaa00-de56-41a8-815c-7764b04df818",
+    "text": "## Key Characteristics\n\n<table>\n<thead><tr><th>Attribute</th><th>Description</th></tr></thead>\n<tbody>\n<tr><td>Color</td><td>Light amber to golden yellow; may deepen slightly with age</td></tr>\n<tr><td>Texture</td><td>Smooth and moderately thick; flows slowly and holds its shape when poured</td></tr>\n<tr><td>Taste</td><td>Mildly sweet with a gentle floral finish; not sharp or bitter</td></tr>\n<tr><td>Aroma</td><td>Delicate and faintly woody-floral; characteristic of mangrove bloom</td></tr>\n<tr><td>Crystallisation</td><td>Crystallises naturally over time — this is normal and does not mean the honey has spoiled</td></tr>\n<tr><td>Processing</td><td>Raw and unheated; strained to remove wax but not pasteurised</td></tr>\n</tbody>\n</table>\n\nBecause this honey is raw and unprocessed, each batch may vary slightly in colour and consistency depending on the harvest season. That variation is a sign of authenticity, not inconsistency.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "447d244c-678f-4809-bb6e-5491ca3ed6ac",
+    "text": "## Origin &amp; Background\n\nThe Sundarbans spans the southern delta of Bangladesh and is a UNESCO World Heritage Site and a Ramsar Wetland — one of the most ecologically protected areas in the world. The Kholisha plant blooms for a short window each year, roughly February to April, which is when traditional honey collectors called **Mouwalis** enter the forest by boat under seasonal permits from the Bangladesh Forest Department.\n\nCollection is done by hand from wild hives, using smoke to calm the bees. It is skilled, physically demanding, and not without risk — the forest is home to Bengal tigers and saltwater crocodiles. The honey that reaches your family carries the effort and knowledge of communities who have worked this forest for generations.\n\nBecause bees in the Sundarbans feed on a relatively consistent and contained set of mangrove plants, the honey has a more uniform and recognisable flavour compared to mixed wildflower honeys from open farmland.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "623eaf26-e101-4a70-a93c-1a706c9b4f3d",
+    "text": "## Why It Matters\n\nFor families who want to know what they are eating and where it comes from, Kholisha honey offers something that most store-bought honey cannot — a clear, honest origin story.\n\nIt contains no added sugar, no preservatives, and no artificial flavouring. It is one of Bangladesh's own natural food products, produced through a documented traditional practice in a protected ecosystem, available year-round from stored harvest stock.\n\nAt Hasanah Mart, we bring it straight to your home — so your family can enjoy something genuinely local, genuinely natural, and genuinely worth it.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c38d31eb-b250-48fa-81cd-a656cce4c3aa",
+    "text": "## Our Prices\n\n<table>\n<thead><tr><th>Size</th><th>Price (BDT)</th><th>Availability</th></tr></thead>\n<tbody>\n<tr><td>250g</td><td>৳320</td><td>In stock</td></tr>\n<tr><td>500g</td><td>৳600</td><td>In stock</td></tr>\n<tr><td>1kg</td><td>৳1,100</td><td>In stock</td></tr>\n</tbody>\n</table>\n\n*Prices valid as of 15 May 2026. Subject to seasonal change.*\n\nThe 1kg jar offers the best per-gram value at ৳1.10/g, compared to ৳1.28/g for the 250g jar. If your family uses honey regularly, the larger size saves money over time.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "17ee4028-ca17-4265-ba0d-7ef50ea83c40",
+    "text": "## Price Drivers\n\nAuthentic Sundarbans Kholisha honey costs more than generic supermarket honey for real, structural reasons — not branding.\n\n<table>\n<thead><tr><th>Cost Factor</th><th>Why It Matters</th></tr></thead>\n<tbody>\n<tr><td>Forest access permits</td><td>Collectors (Mouwalis) must purchase seasonal permits from the Bangladesh Forest Department before entering the Sundarbans. These are limited and add a direct cost before any honey is collected.</td></tr>\n<tr><td>Dangerous collection work</td><td>Mouwalis travel deep into the forest by boat and collect from wild hives in an active tiger and crocodile habitat. That occupational risk is reflected in fair collector earnings.</td></tr>\n<tr><td>Short harvest window</td><td>Kholisha flowers bloom for only 6–8 weeks a year, between February and April. The entire year's supply comes from this one window — there is no way to produce more if demand increases.</td></tr>\n<tr><td>Low, unpredictable yield</td><td>Wild collection depends entirely on what nature provides each season. Collectors cannot increase output by adding managed hives or supplemental feeding.</td></tr>\n<tr><td>Transport from a remote location</td><td>Honey travels by boat from deep forest collection points to depots in Mongla or Khulna, then overland to Narayanganj. Each step carries a real logistics cost.</td></tr>\n<tr><td>Raw handling</td><td>We source honey that has not been heated or pasteurised. Keeping it raw requires more careful storage and faster stock turnover — both cost more than heat-treating the product to artificially extend shelf life.</td></tr>\n</tbody>\n</table>\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "423bbe13-7e14-4da2-9fe8-58d02ca2ef16",
+    "text": "## Market Rate Range\n\nHoney prices in Bangladesh vary widely. Here is an honest picture of what different product types cost, based on general market observation as of 2025–2026.\n\n<table>\n<thead><tr><th>Product Type</th><th>Approx. Market Price (BDT/kg)</th><th>What You're Actually Getting</th></tr></thead>\n<tbody>\n<tr><td>Generic commercial honey (retail shops)</td><td>300 – 600</td><td>Farmed colonies, usually heat-treated, mixed floral sources, adulteration common</td></tr>\n<tr><td>\"Sundarbans honey\" with no sourcing detail</td><td>600 – 900</td><td>Label claim only; origin and quality cannot be verified</td></tr>\n<tr><td>Authentic Kholisha honey (mid-supply chain)</td><td>900 – 1,400</td><td>Some traceability; generally reliable quality</td></tr>\n<tr><td>Hasanah Mart Kholisha honey</td><td>1,100 (per kg jar)</td><td>Traceable sourcing, raw and unheated, single floral source</td></tr>\n</tbody>\n</table>\n\nOur 1kg price of ৳1,100 sits at the accessible end of the authentic Kholisha honey range. We work to keep our prices fair without compromising on sourcing quality.\n\n**One honest warning for your family's protection:** if another seller is offering \"authentic Sundarbans Kholisha honey\" for under ৳700/kg, the numbers simply do not add up. Real collection costs cannot support that price. When a deal looks too good, the honey is usually not what it claims to be.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "7b1d1842-f5e3-4b12-9495-2b013e94f225",
+    "text": "## Value Justification\n\nWe understand ৳320 for a 250g jar feels like more than you'd pay for honey at a local shop. Here is what that price gets your family — plainly stated.\n\n**What you get with Hasanah Mart's Kholisha honey:**\n\n- **One clear floral source.** Your honey comes from Kholisha bloom specifically, not a blend of whatever was cheapest to collect that season.\n- **Raw and unheated.** Naturally occurring enzymes and pollen are intact. Most commercial honey is pasteurised, which destroys these.\n- **No added sugars or fillers.** Cheap honey is frequently cut with sugar syrup, rice syrup, or glucose solution. What we sell is just honey.\n- **A traceable origin.** In a market where adulteration is widespread, knowing your honey came from a real, documented source in the Sundarbans has genuine value.\n\n**What it is not:**\n\nHoney is food, not medicine. We will not make health claims we cannot back up. What we can say honestly is that your family is getting a clean, natural, minimally processed food product from one of Bangladesh's most protected ecosystems — and that is worth a fair price.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "6319dbfe-a224-47d0-a80d-90357ffd8cff",
+    "text": "## Cost vs Alternatives\n\n<table>\n<thead><tr><th>Product</th><th>Approx. Price (BDT/kg)</th><th>Key Difference</th></tr></thead>\n<tbody>\n<tr><td>Refined white sugar</td><td>120 – 140</td><td>Pure sucrose only; no enzymes, pollen, or natural compounds</td></tr>\n<tr><td>Commercial farmed honey (local brands)</td><td>400 – 600</td><td>Managed colonies, multi-floral, usually heat-treated, adulteration risk</td></tr>\n<tr><td>Imported Manuka or Sidr honey</td><td>2,000 – 5,000+</td><td>Foreign origin, internationally certified, high import premium</td></tr>\n<tr><td>Hasanah Mart Kholisha honey</td><td>1,100 (1kg jar)</td><td>Wild-harvested, raw, single-source, locally produced, no import cost</td></tr>\n</tbody>\n</table>\n\nImported premium honeys like New Zealand Manuka or Yemeni Sidr carry internationally recognised certifications and command very high prices. Authentic Kholisha honey offers comparable qualities — wild-harvested, raw, single-origin — grown right here in Bangladesh, without the import markup.\n\nAt Hasanah Mart, we source carefully so your family gets honest value: a real product, at a fair price, delivered to your door.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c059e806-f792-4299-bd64-bf6b4172a2fd",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "3d27eab4-d2d3-45e5-bc12-132c82ebe453",
+    "text": "# Sundarbans Kholisha Flower Honey — Shipping & Delivery Guide\n\nAt Hasanah Mart, we understand that you want your family's groceries delivered safely, quickly, and in perfect condition. Our Sundarbans Kholisha Flower Honey is a pure, natural product, so we handle and ship it with extra care to protect its freshness and quality from our store directly to your doorstep.\n\n---",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e7053114-1b22-4e0a-8476-cc8185db1132",
+    "text": "## Temperature Requirements\n\nBecause this is raw, unprocessed honey, keeping it at the right temperature during transit ensures it retains its natural aroma, texture, and wholesome properties.\n\n* **Optimal Storage Temperature:** The honey should be transported and stored between **15°C to 25°C**.\n* **Heat Sensitivity:** Please protect the package from direct sunlight and prolonged exposure to high heat (above 40°C), as extreme heat can darken the honey and alter its natural enzymes. \n* **Cold Behavior:** In colder weather, raw honey may naturally start to crystallize. This is entirely normal and a proof of its purity. If this happens, simply place the honey jar in a bowl of warm water.\n* **Seasonal Restrictions:** There are **no seasonal shipping restrictions** for this item; it is safely available for delivery all year round.\n\n---",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "bea478e0-5149-4440-b964-bed864dd7061",
+    "text": "## Packaging Notes\n\nHoney can be messy if it leaks, and our jars are fragile. We use secure, multi-layered packaging to make sure your order arrives clean and fully intact.\n\n| Product Variant | Container Material | Transit Packaging Method | Fragility Status |\n| :--- | :--- | :--- | :--- |\n| **250g Jar** | Food-grade glass or premium PET | Bubble wrap sleeve + sealed leak-proof bag + outer box | Fragile — Handle with care |\n| **500g Jar** | Food-grade glass or premium PET | Double bubble wrap + sealed leak-proof bag + outer box | Fragile — Handle with care |\n| **1kg Jar** | Food-grade glass or premium PET | Reinforced bubble wrap + secure tape + thick outer carton | High Fragility — Handle with care |\n\n> **Our Delivery Guarantee:** Every single order is hand-packed by the Hasanah Mart team. If a jar ever cracks or leaks during our fast home delivery process, please notify our delivery rider or customer care immediately, and we will replace it for your family right away.\n\n---",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "eaaedff2-61bd-4449-9bdf-4d92e2d9cd8c",
+    "text": "## Regulatory Considerations\n\n* **Domestic Transport:** As a locally sourced product from the Sundarbans region of Bangladesh, this honey complies with all domestic food safety guidelines and has no internal transit restrictions.\n* **Storage Guidelines:** Our delivery vans and fulfillment areas are kept clean, dry, and away from strong-smelling items (like household cleaning chemicals) to ensure the honey's delicate floral aroma is never compromised.\n\n---",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "a73b6542-0967-41a7-be0f-3fcea08b8ba2",
+    "text": "## International Shipping\n\nHasanah Mart primarily focuses on providing fast, dependable home delivery to families within our local service areas (including Narayanganj and surrounding regions). If you are looking to ship this product internationally, please keep the following rules in mind:\n\n* **Liquid & Food Restrictions:** Many international couriers and customs authorities classify honey under strict biosecurity or \"liquid food\" regulations. \n* **Customs Documentation:** International shipments generally require an official certificate of origin, food safety clearance, and a detailed commercial invoice.\n* **Receiver Responsibility:** Customers are advised to check the import regulations of the destination country before arranging international freight, as customs clearance rules for honey vary widely across regions.",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "0d72e922-11ff-44d9-a50d-00e63ec0a8c7",
+    "text": "## Geographic Origin\n\nThis honey comes from the Sundarbans — the world's largest tidal mangrove forest, stretching across the southern delta of Bangladesh. It is a UNESCO World Heritage Site and one of the most ecologically protected areas on the planet. The Bangladeshi portion covers roughly 6,017 square kilometres across the districts of Khulna, Satkhira, and Bagerhat.\n\nThe specific floral source is the Kholisha plant (*Aegiceras corniculatum*), a salt-tolerant mangrove shrub that grows densely along tidal creek banks throughout the forest. It is not cultivated — it grows wild, as it has for centuries, in one of the most biodiverse coastal ecosystems in the world.\n\nWild bee colonies, primarily *Apis dorsata* (the giant honeybee), build their hives high in the mangrove canopy and forage across this ecosystem. The honey they produce reflects exactly where they live — the specific plants, the tidal air, the season.\n\nThis is not a product that can be replicated on a farm or produced anywhere else. It is genuinely local to this one place.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b3c376e6-1fb9-474b-bfaf-28e5c5779dde",
+    "text": "## Harvest Method\n\nHoney collection in the Sundarbans is carried out by a traditional community called **Mouwalis** — hereditary honey collectors whose families have worked this forest for generations. Their knowledge of the forest, the hives, and the bees is not written down anywhere; it is passed from parent to child through direct experience.\n\n**How collection works, step by step:**\n\n**1. Permits first.** Before entering the forest, Mouwalis obtain seasonal collection permits from the Bangladesh Forest Department. Access is regulated — not everyone can enter, and not at all times of year.\n\n**2. Into the forest by boat.** Collectors travel deep into the Sundarbans by small wooden boat, navigating the network of tidal rivers and creeks. Expeditions last several days to weeks depending on the permitted zone and how deep the active hives are.\n\n**3. Locating hives.** Wild *Apis dorsata* hives are built on high branches of tall mangrove trees. Mouwalis find them using generational knowledge of the forest — reading light, tree type, bee flight patterns.\n\n**4. Smoke to calm the bees.** Collectors burn specific natural materials to produce smoke that temporarily subdues bee activity. Traditional Mouwalis work with minimal protective clothing, relying on technique, timing, and experience rather than equipment.\n\n**5. Partial comb collection.** A portion of the honeycomb is cut and collected. Responsible collectors — and the ones we work with — leave part of the comb intact so the colony survives and can rebuild. Full hive destruction is discouraged by both tradition and forest regulations.\n\n**6. Straining on site.** Collected comb is strained through cloth to separate honey from wax and debris. This is done at the collection point or upon return to base. No heat is used.\n\n**7. Into containers for transport.** Strained honey is stored in food-grade containers and transported out of the forest by boat to collection depots in Mongla or the broader Khulna region.\n\nThis work is genuinely difficult. Mouwalis face bee stings, saltwater crocodiles, and Bengal tigers on every expedition. The honey that reaches your family carries real human effort and real risk behind it.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "f230f08c-0b8f-4dac-ad23-7d64f17f378a",
+    "text": "## Season &amp; Timing\n\nKholisha blooms for a short window each year — roughly **February to April**, with peak flowering in March. This is when bees forage most heavily on Kholisha nectar, producing honey with that variety's characteristic mild, floral flavour.\n\nThe Bangladesh Forest Department issues Mouwali collection permits aligned with this seasonal window. The exact dates vary year to year based on regulatory decisions and forest conditions.\n\n<table>\n<thead><tr><th>Month</th><th>What Happens</th></tr></thead>\n<tbody>\n<tr><td>February</td><td>Kholisha bloom begins; collection season opens; Mouwalis enter the forest</td></tr>\n<tr><td>March</td><td>Peak bloom and peak collection activity across the forest</td></tr>\n<tr><td>April</td><td>Late season; bloom tapers off; collection winds down</td></tr>\n<tr><td>May – January</td><td>Off-season for Kholisha; stored honey from the harvest is sold year-round</td></tr>\n</tbody>\n</table>\n\n**A note on year-round availability:** Our listing shows this product as available throughout the year. That is because properly stored raw honey keeps well for a long time after harvest. When you order outside the February–April window, you are receiving honey from the most recent harvest season — not a different product. The harvest date is fixed; the availability is not.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "234b0a9b-cf47-47e0-afd4-feeb157a9876",
+    "text": "## Supply Chain\n\nHere is the honest path this honey takes from the forest to your home.\n\nWild hive — deep Sundarbans forest\n↓\nMouwali collector — licensed, seasonal, generational knowledge\n↓\nLocal collection depot — Mongla or Khulna district\n↓\nSupplier / aggregator — straining, storage, quality check\n↓\nHasanah Mart — sourcing review, packaging, listing\n↓\nYour door — Narayanganj and whole Bangladesh\n\n**What we want to be transparent about:**\n\nThe honey market in Bangladesh has real traceability problems. Once honey leaves the forest and enters aggregator networks, mixed-batch handling is common. A single wholesaler may combine honey from multiple collectors or seasons without disclosure. This is why we pay attention to which suppliers we work with — not just whether they can supply volume, but whether they can tell us something specific about where it came from.\n\nWe source from suppliers who maintain collector-level records where possible. We are not claiming a perfect, fully audited chain — that infrastructure does not yet exist at scale for Sundarbans honey in Bangladesh. What we are saying is that we ask the right questions, we do not buy from sources that cannot answer them, and if something about a batch concerns us, we do not list it.\n\n**Shorter chain, better product.** The fewer hands honey passes through between the forest and your family, the lower the risk of dilution, mislabelling, or quality degradation. We keep our sourcing chain as short as we practically can — and we deliver directly to your home, so nothing sits in a shop for months before you buy it.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "bac46a65-38ef-43d3-a759-3572007d3634",
+    "text": "## Ideal Conditions\n\n<table>\n<thead><tr><th>Factor</th><th>Recommendation</th><th>Why It Matters</th></tr></thead>\n<tbody>\n<tr><td>Temperature</td><td>Room temperature — ideally 20°C to 30°C</td><td>Keeps honey at a stable, pourable consistency. Bangladesh's ambient indoor temperature is generally fine year-round.</td></tr>\n<tr><td>Location</td><td>A cool, dry kitchen shelf or cupboard away from the stove</td><td>Heat from cooking and direct sunlight both degrade honey over time. A cupboard is better than a countertop next to the stove.</td></tr>\n<tr><td>Sunlight</td><td>Keep away from direct sunlight</td><td>UV exposure can break down naturally occurring enzymes and alter colour and flavour.</td></tr>\n<tr><td>Humidity</td><td>Dry environment only</td><td>Honey is hygroscopic — it absorbs moisture from the air. High humidity raises the moisture content of the honey, which increases the risk of fermentation.</td></tr>\n<tr><td>Refrigeration</td><td>Not recommended</td><td>Cold temperatures accelerate crystallisation significantly and do not extend shelf life. Refrigerating raw honey is unnecessary and makes it harder to use.</td></tr>\n</tbody>\n</table>\n\n**One practical tip for Bangladeshi households:** During the hot and humid monsoon months (June–September), make sure the jar lid is tightly sealed after every use. Humidity is at its highest during this period and leaving the lid loosely on invites moisture in.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "f1ebf071-09d2-4958-a51d-850fbdb5cad3",
+    "text": "## Container Recommendations\n\n**Glass is the best container for honey** — it is non-reactive, does not absorb odours, and keeps honey in its natural state indefinitely. If your Hasanah Mart order arrives in a glass jar, we recommend keeping it in that same jar until it is finished.\n\nIf you need to transfer honey to another container:\n\n- **Food-grade glass jars** with tight-fitting lids are ideal. Old jam jars work well if washed thoroughly and dried completely before use.\n- **Food-grade plastic** (labelled HDPE or marked with recycling codes 2 or 5) is acceptable for short-term storage. Avoid thin or low-quality plastic — honey's mild acidity can interact with poor-quality plastic over time.\n- **Stainless steel** is acceptable for short-term use, such as a serving container on the table.\n- **Avoid** iron, copper, zinc, or other reactive metals entirely. Honey's natural acidity will cause slow leaching from these materials.\n\n**Always use a clean, dry spoon** when taking honey from the jar. A wet spoon introduces water directly into the honey, which raises the local moisture level and can trigger fermentation in that spot over time.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "065ac29e-0442-4609-b680-77aa50fefab3",
+    "text": "## Shelf Life\n\n<table>\n<thead><tr><th>Condition</th><th>Expected Shelf Life</th><th>Notes</th></tr></thead>\n<tbody>\n<tr><td>Sealed, stored correctly</td><td>2 years or more from harvest date</td><td>Raw honey is naturally resistant to spoilage due to low moisture, low pH, and naturally occurring antimicrobial compounds. Properly stored honey can last far longer than 2 years — this is a quality guideline, not a safety cutoff.</td></tr>\n<tr><td>Opened, stored correctly</td><td>Same as sealed — no meaningful change</td><td>Opening the jar does not shorten shelf life, provided you always use a dry spoon and reseal tightly after each use.</td></tr>\n<tr><td>Exposed to moisture or heat</td><td>Months, not years</td><td>Repeated introduction of water or storage near heat significantly shortens safe shelf life and increases fermentation risk.</td></tr>\n</tbody>\n</table>\n\n**On crystallisation:** Kholisha honey will crystallise naturally over time — typically within several months to a year of harvest, depending on storage temperature. This is not spoilage. Crystallised honey is safe to eat and has the same flavour. To return it to liquid form, place the sealed jar in a bowl of warm water (not boiling — keep below 40°C) for 15–20 minutes, stirring occasionally if needed. Do not microwave.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "01194cde-b19d-4e63-a047-85307e0d3aec",
+    "text": "## Signs of Spoilage\n\nRaw honey rarely spoils when stored correctly, but it is important to know what to look for. Here are the signs that something has gone wrong.\n\n**Do not consume the honey if you notice:**\n\n- **Sour or fermented smell** — a sharp, yeasty, or alcoholic odour means fermentation has occurred, almost always caused by excess moisture entering the jar. This is the most important warning sign.\n- **Fizzing or active bubbling inside the jar** — a sign of active fermentation. This is different from the thin natural foam that may appear on fresh raw honey when first opened.\n- **Sour, sharp, or off taste** — if it tastes wrong, trust that. Pure honey should taste clean and mildly sweet.\n- **Visible mould** — extremely rare in properly stored honey but possible if significant water has been introduced. If you see any growth on the surface, discard the entire jar.\n- **Very watery texture with no viscosity** — if honey that was previously thick becomes noticeably thin and runny without being warmed, moisture contamination is likely.\n\n**What is NOT a sign of spoilage:**\n\n- Crystallisation — completely normal, as described above\n- Colour darkening over time — natural and harmless\n- A thin layer of foam or bubbles on the surface when first opened — normal in fresh raw honey\n- Slight variation in colour between batches — expected in wild-harvested honey\n\nIf you are ever unsure about a jar you received from us, contact Hasanah Mart directly. We would rather help you check than have your family consume something that does not seem right.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "66566108-d294-4c35-ad1c-75f72a9a9992",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e64e2c48-8b20-4693-bc6f-b71bafc7a9df",
+    "text": "# Sundarbans Kholisha Flower Honey — Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ab2b4963-450b-42af-b5c8-f5a96255508d",
+    "text": "## Best uses",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ac00844e-b9b5-4974-9d78-810dbe278f41",
+    "text": "### Daily sweetener\n\nUse Kholisha flower honey as a natural sweetener in tea, warm water, milk, coffee, or homemade drinks.",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "255964c0-768f-4f57-8e4b-65dc5d2d6589",
+    "text": "### Breakfast pairing\n\nPairs well with:\n- Bread and toast\n- Paratha and ruti\n- Pancakes and waffles\n- Oats and cereal\n- Yogurt and fruits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "13844d82-2a03-45f0-8cd9-426fcb7a6573",
+    "text": "### Traditional food use\n\nCommonly enjoyed with:\n- Chitoi pitha\n- Ruti\n- Semai\n- Homemade desserts\n- Lemon water",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "1cab8e56-7d02-4ff9-82df-c86cdfaafbb8",
+    "text": "### Dessert topping\n\nCan be drizzled over:\n- Fruit bowls\n- Ice cream\n- Cakes\n- Custards\n- Smoothie bowls",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "41c178d9-cdf7-4393-8e90-3787f15a7d2a",
+    "text": "### Homemade drinks\n\nUseful for preparing:\n- Honey lemon water\n- Warm honey tea\n- Ginger honey drinks\n- Cold summer drinks\n\n---",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "a2635571-438e-460a-910a-e9001e184061",
+    "text": "## Dosage / serving suggestions\n\n| Usage type | Suggested amount |\n|---|---|\n| Tea or warm water | 1 to 2 teaspoons |\n| Toast or breakfast foods | 1 to 2 tablespoons |\n| Smoothies or yogurt | 1 tablespoon |\n| Homemade desserts | Adjust to taste |\n| Family recipes | Use as needed |",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b1dedcd6-d249-4765-b76e-00c801a345e8",
+    "text": "### Everyday serving guidance\n\n- Usually consumed in small to moderate amounts as part of regular meals.\n- Stir well before use if natural settling occurs.\n- Use a clean, dry spoon to keep the honey fresh.\n\n---",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "05c7529f-73c5-4ea9-8657-681a4da2534f",
+    "text": "## Recipe ideas",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8e4aa800-60cb-4ec9-9ce3-5f84a63fea50",
+    "text": "### Honey lemon drink\n\nMix:\n- 1 glass of warm water\n- 1 teaspoon honey\n- Fresh lemon juice",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ee7b3449-dc12-46c9-a392-04546831bcdd",
+    "text": "### Honey yogurt bowl\n\nAdd honey to:\n- Plain yogurt\n- Banana slices\n- Seasonal fruits\n- Oats or nuts",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "cd01f93a-6cf4-4d86-8ac9-2e4e42c9cd4e",
+    "text": "### Honey milk drink\n\nMix:\n- Warm milk\n- 1 teaspoon honey",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8baa8b64-0482-401e-8210-f4669d58587f",
+    "text": "### Honey toast\n\nSpread honey over:\n- Toasted bread\n- Butter toast\n- Paratha",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ddbc92f5-11eb-402a-b3ce-36ce88690feb",
+    "text": "### Homemade salad dressing\n\nMix honey with:\n- Lemon juice\n- Olive oil\n- A small pinch of salt\n\n---",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "f543ef63-4b1f-4a7b-a62f-a323d7d4c89d",
+    "text": "## What to avoid\n\n- Avoid using a wet spoon inside the jar.\n- Do not store the honey in direct sunlight or near high heat.\n- Avoid overheating honey during cooking for long periods.\n- Keep the lid tightly closed after use.\n- Honey is not recommended for infants under 12 months old.\n```",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d3d4f5e5-6c38-4af0-873b-e1d0ccd586fa",
+    "text": "## Allergen Information\n\n<table>\n<thead><tr><th>Allergen</th><th>Status</th><th>Notes</th></tr></thead>\n<tbody>\n<tr><td>Bee pollen</td><td>Naturally present</td><td>Raw honey contains pollen from the plants bees visited. Individuals with pollen allergies or hay fever may react to raw honey. If your family member has known pollen sensitivities, consult a doctor before consuming.</td></tr>\n<tr><td>Bee venom proteins</td><td>Trace amounts possible</td><td>Very small amounts of bee-origin proteins may be present. People with known bee sting allergies should seek medical advice before consuming raw honey.</td></tr>\n<tr><td>Gluten</td><td>Not present</td><td>Honey is naturally gluten-free.</td></tr>\n<tr><td>Nuts, dairy, soy</td><td>Not present</td><td>Pure honey contains none of these. However, this product is not produced in a certified allergen-controlled facility, so cross-contamination during packaging cannot be fully excluded.</td></tr>\n</tbody>\n</table>\n\n**If anyone in your household has a known food allergy or history of allergic reactions**, introduce honey in a small amount first and observe for any reaction before regular use. Symptoms of an allergic response can include itching, swelling, hives, or difficulty breathing. Seek immediate medical attention if any of these occur.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "0615cb00-a63c-4d12-b36a-2fb41d229023",
+    "text": "## Who Should Avoid This Product",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ba09774f-e3ea-4e9b-b739-08f58ca137eb",
+    "text": "### Infants under 12 months — do not give honey under any circumstances\n\nThis is a firm medical guideline, not a precaution. Raw honey — and all honey — can contain spores of *Clostridium botulinum*, a bacterium that produces a toxin causing infant botulism. Adult digestive systems handle these spores safely. An infant's gut is not yet developed enough to do so.\n\nInfant botulism is a serious illness. Symptoms include constipation, weakness, poor feeding, and in severe cases, difficulty breathing. It can be life-threatening.\n\n**There is no safe amount of honey for babies under 12 months. Do not add it to food, milk, water, or a dummy/pacifier.** This applies regardless of honey type, origin, or processing method.\n\nChildren aged 1 year and above can consume honey safely in normal food quantities.",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "2bc3de23-9498-4d67-bcbf-d9bc7a3d2648",
+    "text": "### Pregnant women\n\nThe evidence on honey consumption during pregnancy is not conclusive either way. Raw honey carries a very low but non-zero risk of bacterial contamination. Most doctors consider moderate consumption of honey safe during pregnancy, but individual circumstances vary. Consult your doctor or midwife if you are unsure.",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e0ae94f2-2fb3-4dc3-a25d-87b23e2de2ac",
+    "text": "### People with known bee or pollen allergies\n\nAs noted above, raw honey contains pollen and trace bee proteins. If you have a diagnosed bee venom allergy or significant seasonal pollen allergy, speak to your doctor before consuming raw honey.",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "00e02269-9e55-44c3-bc3d-bcf17b5b6f59",
+    "text": "### People who are immunocompromised\n\nIndividuals undergoing chemotherapy, organ transplant recipients, or anyone with a significantly weakened immune system should consult their doctor before consuming raw, unpasteurised honey. Pasteurised honey may be a safer option in these cases.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "9c6bf4fd-3eb9-43d5-a728-c7bab71b89ad",
+    "text": "## Drug &amp; Condition Interactions\n\n<table>\n<thead><tr><th>Condition / Medication</th><th>Concern</th><th>Advice</th></tr></thead>\n<tbody>\n<tr><td>Diabetes (Type 1 or Type 2)</td><td>Honey raises blood glucose. It is predominantly fructose and glucose and will affect blood sugar levels similarly to other natural sugars.</td><td>Do not consume freely without medical guidance. Honey is not a safe substitute for sugar for diabetic patients without a doctor's specific advice.</td></tr>\n<tr><td>Prediabetes / insulin resistance</td><td>Same blood glucose impact applies.</td><td>Moderate caution; discuss with your doctor if you are actively managing blood sugar.</td></tr>\n<tr><td>Warfarin (blood thinner)</td><td>Large quantities of honey may have a mild interaction with warfarin metabolism in some individuals. Evidence is limited but worth noting.</td><td>Normal dietary amounts are unlikely to be a concern. If you take warfarin, inform your doctor about regular honey consumption.</td></tr>\n<tr><td>Chemotherapy drugs</td><td>Raw honey may carry a small bacterial contamination risk that is clinically significant for immunocompromised patients.</td><td>Consult your oncologist. Pasteurised honey may be recommended instead during treatment.</td></tr>\n<tr><td>Fructose intolerance / malabsorption</td><td>Honey is high in fructose. People with hereditary fructose intolerance or fructose malabsorption may experience digestive discomfort.</td><td>Avoid or consume only in very small amounts under medical guidance.</td></tr>\n</tbody>\n</table>\n\n**This list is not exhaustive.** If anyone in your household takes regular medication or has a chronic health condition, check with your pharmacist or doctor about whether honey consumption is appropriate for them. We are a grocery store, not a medical provider — when in doubt, ask a qualified professional.\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "531c6b2c-760a-4c9e-bc05-0875e5b85bf6",
+    "text": "## Safe Usage Limits\n\nHoney is a food, not a supplement or medicine. There is no officially established therapeutic dose. The following guidance is based on general dietary principles.\n\n**For healthy adults:** 1 to 2 teaspoons (approximately 7–14 grams) per day is a reasonable everyday amount that adds sweetness without a significant sugar load. Consuming larger amounts regularly adds substantial natural sugar to your diet.\n\n**For children over 1 year:** Small amounts — a teaspoon or less — as part of a normal varied diet. Honey should not be a primary source of sweetness in a child's daily diet.\n\n**For children under 12 months:** None. See above.\n\n**General principle:** Honey is high in natural sugar. Even pure, raw, high-quality honey consumed in large daily quantities contributes meaningfully to total sugar intake. For most families using honey as an occasional sweetener or flavouring, this is not a concern. For families watching sugar intake closely — particularly with diabetic or prediabetic members — keep portions small and consistent.\n\n---\n\n*If you have a question about whether this product is suitable for a specific family member's health situation, please consult a doctor or registered dietitian. Hasanah Mart is happy to share what we know about the product itself, but medical decisions are always best made with qualified healthcare support.*\n\n</section>",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "06631198-9693-41d5-92c7-bbbff9d6bb05",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "51886528-0692-41d2-926e-f62350a5091d",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "248b13ce-944c-4e28-a948-888c76f52399",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "01725533-61d7-472e-9e32-7da7af1eedb7",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "1df04e72-5f78-4ffc-971b-6c9989c6d02e",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "f4be369e-b694-4c18-8bbf-0ec4107d5ef5",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "74aafb36-281c-468f-a9b1-8ba3644ab309",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "6292724e-886e-426d-b4e0-a6693b3ba4d7",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "3591f3f9-3fe5-4bee-a746-40a158a9c904",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d1f772bd-d169-42fd-8da3-d12d81da5030",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "65b62a83-c810-487b-9ece-247303cc5a2b",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "3e928e60-67c4-4672-a7d0-ea8450c8e433",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "90083a80-ddb5-4da5-b772-5c8a5251b0b8",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "9675ef1c-6058-4f34-bf4f-a44d73d7ece1",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d42dbaf9-8fb1-477e-940b-94747bb61fa4",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "76d06f49-1b59-475a-a715-b2cb67ce4f46",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "660b1c70-a179-4174-8afb-44b3833c3380",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "83304ea3-4371-43d4-b1f0-3a0a3b4cd121",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "97390e73-86b9-46ec-aeae-45e6f982da37",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "cf957fd3-9b42-4ce3-8a82-73f395bdd69e",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "edca9e09-a430-4e5d-9b3c-65e3a089307e",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c6907faf-607b-4fd6-abce-4c2f563d14e9",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "1239a7f7-a6e9-4b93-a1f9-9b3fcfc75c76",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "afb4323b-4278-475a-9f88-e5eb7dbb1166",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e80275b9-7794-4eca-beed-88c83ad26e8a",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "fd910cd3-5171-4dcf-beeb-f149932c792a",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d2c9fd02-e8e5-4d70-b5b6-fb04d5c24bf9",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "9cc6584d-48ec-4aba-8bab-18595b019bb9",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "88308201-ccbe-40d1-be3a-2fd0b8c742f3",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "7e09161a-de3b-4371-b94e-abdb00267618",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "13cee57e-9022-48c5-afab-f52fe1c08f8f",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "6a8e44f2-972f-488d-a345-fd1dd5c0479d",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d94880ce-a255-40a9-b8ed-768af13d4166",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "eb6ac054-2498-41e9-ad13-fd250f06496c",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "262bf668-1f98-4e94-a4f9-18580a668175",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "182a1ade-5c01-4e33-a1ee-f2b93857fb13",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "1d0cd1ad-9c68-483d-b909-9008a631b43f",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "12ec6e8f-d317-4d89-8dd5-bad6ecbf86c9",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "695c7cd1-4f56-4b11-848f-97f8e44a7a20",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "9301e580-9da7-407d-9b57-6149f6b1cf0f",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "33671f11-3186-47f0-8367-25de395bbc2e",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "f64c4427-976f-4e45-9768-f50424b45a83",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ffbfe02e-7857-4b07-83e3-45eec56cbd6b",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d110bbfd-df22-4568-9f64-c60d7310bf13",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "35f1b9c0-0b5f-4eec-9dcb-cc4f575c6aee",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "a3b88570-8468-40ca-98d0-8396cc3dbbfe",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "7d74ec40-d871-4bfb-bea8-a22fde745ebe",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "5f4021ac-003d-4c3d-a3c1-d4121fa43249",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "939d37de-b0a7-4059-bebc-3a0b331b798f",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "1346d6e1-9bc7-4446-a4a7-8c10317ef49e",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "25be8b58-f7cd-4bf4-98db-9654dd68710b",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "f3599d2f-313f-48dc-acf5-6d154f07abfd",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "427a5db6-5abe-4e70-97de-50bf2c9a05a4",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "05d75feb-cc72-45e0-909e-23509f401dd6",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "cfb3789a-2087-4f21-a6fd-430c9846018b",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "7b821a09-1ebf-4bdf-acda-55eb4451d1b1",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d7dd7fda-1c1e-4adb-9cbc-0d4fd58fe1b1",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "1ee2419a-98d5-4130-95ed-98c91d1e3b06",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "a41eeacd-47aa-4b6a-847b-3ee7755ddcda",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "5c98674c-a171-4f19-b812-5557c3d83643",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ec39f1e5-01fe-4738-baa4-85e7291dbe25",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e829b7f4-18d0-485c-919d-ba37f809af5e",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b7b7a03a-de52-4f39-be86-6070aa0f8fc4",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "2762b7a8-20d2-4d30-86b8-3a0e77f32b15",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "7fa26c84-4902-4717-b0c9-57b644d9e220",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8ac07f3f-ad31-45eb-b5ec-f83f666d941e",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "f0daaf5b-5d12-45dd-ace8-2441ca1f9169",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "7f48a25a-d505-4304-b3f0-cd9d4b72e6ab",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "edf63a07-6607-49f9-b5e2-d46fbe4520ed",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "6cd256ce-9520-4472-a355-53efe9392194",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "102eed61-fa0f-455e-90be-edfd8a5ba10e",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d23a4e96-f9e2-4720-b6f5-46e4d10598d1",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "4da6b311-61de-499a-a076-6d3f93a65b24",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b7798f3f-e5e3-46f9-8a17-26bf42571fba",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "7c51d0d6-a823-43b0-afa2-1b63f3a950e4",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "27121c9f-7382-4ac6-9555-94143bdb3058",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e00b108d-4fc9-46b4-a490-a0c7c615a3ec",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "5dbc5e45-2fba-4a4f-9bd7-f34611506140",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b3eef2b7-e18a-4c9b-938f-e986482b39bf",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "da0676ad-ccf7-4c8e-8a61-15ea70fed7db",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ab2d2227-dc8e-4319-94d0-c34e2d0fc93e",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "04b4e212-2bff-417e-8431-12e1de426a8c",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "0ab4df92-b555-48d7-b6a6-aa8d9ac19109",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "f1e016c9-2c6f-4096-b9f2-6bff0f6e74ee",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "66f4db33-cd0f-41bd-ba18-7e430cc877ae",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c03f8114-b02d-4f27-977f-59cc2cd6eca8",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e2c0a7f8-62c8-49a8-8e17-86ca44b5871a",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "0cbc1341-7822-4ccb-a3d4-b7be02d97e32",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "3ceb0f40-e85b-4cf9-a767-eefad14f0a61",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "6e22c0d2-777e-4d54-9850-763420035956",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "0100aa17-7214-4ab8-924a-7c63a327f830",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "f0946911-221d-4bba-a01a-ada343cdfafa",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c902f9d1-da2f-4413-8445-fcb608ba8481",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "903f1a5b-2a9b-46ba-aefd-040ae39f38af",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "d66547b7-63fd-4fca-a8fa-c051d4a708da",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "4419822c-ec68-4f36-bb23-e5a860b76da1",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "aa533bd3-40f8-41f0-9f76-7ae1ad3c2748",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ac1f2b2a-9e9d-49f1-b571-4760682d02e4",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8d7a8311-0e0b-456f-9102-fb4345f9ce6b",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ea3f3c7c-2b85-4345-9553-7e7689450ab3",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "35b00657-a41d-4f3e-bada-717d46d99b74",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "bfd27b1a-7712-4c80-8b47-73584bd4d1b5",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "cd23a73a-ab2d-4a87-a160-6db33a3a0811",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "87f29469-0a08-4832-9917-fe25eb291f0c",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "cef47ed9-2b1d-4d11-8b33-972b26122179",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "4c1cb361-939e-4ced-84c9-57dad5630620",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "41a5fba9-62f8-4cc5-ab04-16edb8de5352",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "ed850033-571c-43d2-851f-94bd1b17bae4",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b67b4732-f990-4475-a8a6-fb0d07dade5d",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8b284cd5-d1d7-4460-8111-ec6c930bf7ad",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c428578d-fdcc-4294-a56f-8fbe40d55984",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "958f4060-552c-42c0-98b9-6ea94d695e7a",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "b1574ba7-1960-43b4-bf33-fc4058ff818a",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "bbec84f7-6074-40d1-bdcf-080e10246f1b",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "04907e46-8032-4262-a988-3eb0b08e8713",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "3f17b5ac-9a6e-4d78-b019-e59c3fcb1019",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e929eab8-5f05-4621-a986-625ee585afc8",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "9411c6da-328d-40d5-8f95-8e686ff09698",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "e7bfc828-e9c3-4514-a01b-fc911ee09206",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "6ad9b021-dbc0-47ac-bac5-5cc9c65aeb60",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "8f8c3aa6-3e7f-415a-9a04-0070bfd032a9",
+    "text": "# Authenticity",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "dd32109d-fb05-44b7-9390-4a4e3f216e01",
+    "text": "# Benefits",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "5ff22847-6659-45a2-895a-d986c6f200f0",
+    "text": "# Comparisons",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "f550a030-7928-4194-9f97-4262c7ba662f",
+    "text": "# FAQ",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "306c5f66-2e50-4815-9379-56aace015482",
+    "text": "# Nutrition",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "16c8325e-3873-4065-9e50-7b92f014c38b",
+    "text": "# Overview",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "2d36e0eb-7a22-4f6f-bbfa-cdd47121a24d",
+    "text": "# Pricing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "3918eac9-5df9-48df-8075-609e5d65cacc",
+    "text": "# Shipping",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "928c40f7-3486-4c55-9412-2b8c228b6fba",
+    "text": "# Sourcing",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "c0d077ba-c137-4c31-bc9c-4180b155afd2",
+    "text": "# Storage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "6be06b62-5565-4c10-8b32-355367689602",
+    "text": "# Usage",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
+    }
+  },
+  {
+    "chunk_id": "aa1d36fa-90d1-4a86-aecc-a9d5c50724b5",
+    "text": "# Warnings",
+    "metadata": {
+      "source": null,
+      "product_id": null,
+      "section_type": null,
+      "heading": null
     }
   }
 ]

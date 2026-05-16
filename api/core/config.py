@@ -58,6 +58,14 @@ FAISS_DIR = (
 class Settings(BaseSettings):
 
     # -------------------------------------------------
+    # KNOWLEDGE BASE
+    # -------------------------------------------------
+
+    kb_root: str = (
+        "knowledge_base/catalog/products"
+    )
+
+    # -------------------------------------------------
     # APPLICATION
     # -------------------------------------------------
 
@@ -98,23 +106,23 @@ class Settings(BaseSettings):
         "text-embedding-3-small"
     )
 
-    embedding_dimension: int = 1024
+    embedding_dimension: int = 1536
 
 
     # -------------------------------------------------
     # FAISS
     # -------------------------------------------------
 
-    faiss_index_path: str = str(
+    # -------------------------------------------------
+    # VECTOR DATABASE
+    # -------------------------------------------------
 
-        FAISS_DIR
-        / "sample.index"
+    faiss_index_path: str = (
+        "artifacts/faiss/sample.index"
     )
 
-    faiss_metadata_path: str = str(
-
-        FAISS_DIR
-        / "sample_metadata.json"
+    metadata_path: str = (
+        "artifacts/faiss/sample_metadata.json"
     )
 
 
@@ -163,7 +171,7 @@ class Settings(BaseSettings):
     )
 
     whatsapp_api_version: str = (
-        "v22.0"
+        "v25.0"
     )
 
 
