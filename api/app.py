@@ -33,6 +33,8 @@ from fastapi.middleware.cors import (
     CORSMiddleware
 )
 
+from fastapi.responses import HTMLResponse
+
 # ---------------------------------------------------------
 # CONFIG
 # ---------------------------------------------------------
@@ -305,3 +307,43 @@ else:
     logger.warning(
         "Dashboard routes not found."
     )
+
+
+@app.get(
+    "/privacy-policy",
+    response_class=HTMLResponse
+)
+def privacy_policy():
+
+    return """
+    <html>
+        <head>
+            <title>
+                Hasanah Mart Privacy Policy
+            </title>
+        </head>
+
+        <body>
+            <h1>
+                Privacy Policy
+            </h1>
+
+            <p>
+                Hasanah Mart AI Assistant
+                collects customer messages
+                solely for customer support
+                and product assistance.
+            </p>
+
+            <p>
+                We do not sell or share
+                customer data with third parties.
+            </p>
+
+            <p>
+                Contact:
+                hasanahmart@gmail.com
+            </p>
+        </body>
+    </html>
+    """
