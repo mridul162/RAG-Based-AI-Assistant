@@ -95,7 +95,7 @@ class Settings(BaseSettings):
     # -------------------------------------------------
 
     embedding_model: str = (
-        "BAAI/bge-m3"
+        "text-embedding-3-small"
     )
 
     embedding_dimension: int = 1024
