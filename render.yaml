@@ -1,31 +1,6 @@
 services:
   - type: web
-
-    name: hasanah-mart-rag-api
-
+    name: hasanah-mart-streamlit
     runtime: python
-
-    plan: free
-
-    buildCommand: |
-      pip install -r requirements.txt
-
-    startCommand: |
-      uvicorn api.app:app --host 0.0.0.0 --port $PORT
-
-    envVars:
-
-      - key: OPENAI_API_KEY
-        sync: false
-
-      - key: DATABASE_URL
-        sync: false
-
-      - key: WHATSAPP_VERIFY_TOKEN
-        sync: false
-
-      - key: WHATSAPP_ACCESS_TOKEN
-        sync: false
-
-      - key: WHATSAPP_PHONE_NUMBER_ID
-        sync: false
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run streamlit_app.py --server.port $PORT --server.address 0.0.0.0
