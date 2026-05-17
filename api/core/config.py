@@ -21,7 +21,8 @@ from dotenv import load_dotenv
 from pydantic import Field
 
 from pydantic_settings import (
-    BaseSettings
+    BaseSettings,
+    SettingsConfigDict
 )
 
 
@@ -110,15 +111,7 @@ class Settings(BaseSettings):
 
 
     # -------------------------------------------------
-    # FAISS
-    # -------------------------------------------------
-
-    # -------------------------------------------------
-    # VECTOR DATABASE
-    # -------------------------------------------------
-
-    # -------------------------------------------------
-    # VECTOR DATABASE
+    # FAISS VECTOR STORE
     # -------------------------------------------------
 
     faiss_index_path: str = (
@@ -202,12 +195,10 @@ class Settings(BaseSettings):
     # PYDANTIC SETTINGS
     # -------------------------------------------------
 
-    model_config = {
-
-        "env_file": ".env",
-
-        "extra": "ignore",
-    }
+    model_config = SettingsConfigDict(
+        env_file=".env",
+        extra="ignore"
+    )
 
 
 # ---------------------------------------------------------
